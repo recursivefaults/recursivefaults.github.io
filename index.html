@@ -1,18 +1,53 @@
 ---
 layout: default
 ---
-
+{% include intro.html %}
 <section class="row">
-    {% for post in site.posts %}
-    <div class="col">
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2> 
-        <p> {{post.excerpt }}</p>
+    <div class="col-full">
+        <h2>Am I Right For You?</h2>
+        <p>Let me first explain a few things that I am not. I am not a developer, designer, UX person, system administrator, DBA, or project manager.</p>
+        <p>I have been all of these things before, but I won't be them for your organization.<br />
+        <p>If you've worked with freelancers or an agency in the past, they've had almost all of these people and skills. Can you honestly tell me that you are thrilled with the results?</p>
+        <p>More than likely you were left feeling lost and anchored. Lost in a completely new world of software development, and anchored to a few key agencies or freelancers who keep everything running.</p>
+        <p>Whatever the goals of your software product are and whoever you choose to have build it, I want to be there to help you never get lost again or feel tethered to anything other than achieving the goals you had set out to begin with.</p>
     </div>
-    {% endfor %}
 </section>
 
+<section class="row">
+<h2>Services</h2>
+    <div class="col">
+        <h3>One-on-One</h3>
+        <p>Lets have a chat. Tell me about the problems you and your organization are facing, what you're considering and I'll give
+        my thoughts.</p>
+        <p>Here are some <i>potential</i> things I'd love to talk through with you:</p>
+        <ul>
+            <li>The agency we're working with is saying X, what do I do?</li>
+            <li>How do I get my boss to consider trying an idea.</li>
+            <li>How might an Agile set up look in my group?</li>
+            <li>What do you think I should know about SAFe, Scrum, Kanban, etc.</li>
+            <li><b>Or any other problem that is wearing on you</b></li>
+        </ul>
+        <br>
+        <p>
+        Price: $100<br />
+        Duration: 1 hour
+        </p>
+        <p>Email me to set up a time &nbsp;{% include email.html %}</p>
+    </div>
+    <div class="col">
+        <h3>Coaching and Mentoring</h3>
+        <p>Software creates change. Change in your users, and change in your organization. Having a coach or mentor guide you through this can be invaluable. Unfortunately there are no silver bullets.<br/>
+        I'll work closely with your organization in various areas:</p>
+        <ul>
+            <li>Education and workshops with senior leaderships on software as an industry, and the various practices in use.</li>
+            <li>Turning a marginally successful or failed software product around with validated learning</li>
+            <li>Interviewing potential new hires to help with future software</li>
+            <li>Building a high performing software team for the first time</li>
+            <li>Implementing Agile or Lean practices</li>
+        </ul>
+        <br />
 
-<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+        <p>Email me if you're interested &nbsp;{% include email.html %}</p>
 
+    </div>
+</section>

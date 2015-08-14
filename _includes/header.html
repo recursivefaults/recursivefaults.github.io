@@ -1,17 +1,18 @@
 <header>
 
     <div id="logo-container">
-        <div id="logo"><a href="{{site.baseurl}}">{{ site.title }} </a></div>
-        <div id="subtitle">A design agency from Amsterdam</div>
+        <div id="logo"><a href="{{site.baseurl}}">{{ site.title }}</a></div>
+        <div id="subtitle">Software Consultant</div>
     </div>
-<!-- 		<nav>
+	<nav>
         <ul>
-            <li><a href="#">Link 1</a></li>
-            <li><a href="#">Link 2</a></li>
-            <li><a href="#">Link 3</a></li> 
-            <li><a href="mailto:your@address.com" class="bordered">Contact</a></li>
+            {% for page in site.pages %}
+                {% if page.title %}
+                <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                {% endif %}
+            {% endfor %}
         </ul>
-    </nav> -->
+    </nav>
 
 </header>
 

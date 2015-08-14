@@ -8,13 +8,11 @@
     {% include header.html %}
 
 	<div id="content">
-		<section class="intro">
-			<h1>Hello, <span class="nl"></span>we are here to help you.</h1>
-			<p>
-				Gumba is a simple single-page website template. This is the place where you would normally introduce yourself. You can easily change the template to fit your needs by changing the text, photos and styles.
-			</p>
-		</section>
+
         {{ content }}
+        
+        {% include contact.html %}
+
     </div>
 
     {% include footer.html %}
