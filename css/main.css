@@ -539,6 +539,10 @@ header nav ul li a.bordered {
   font-size: 1.2em;
   line-height: 1.6em;
 }
+
+#content section.row ul {
+    margin-bottom: 0.75em;
+}
 #content section.row .col, #content section.row .col-full {
   float: left;
   display: block;

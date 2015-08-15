@@ -21,13 +21,14 @@ First, lets go through some typical questions.
 * Are the customers happy?
 * Whats the next big thing?
 
+
 There are plenty more to ask, but these keep enough people up at night. In fact, just today I was on the phone with a client who was happy there were people who had signed up for their Beta and depressed that they aren’t actually using the it.
 
 Their question for my client may be, “Why aren’t people using this product?”
 
 There’s another question though, that follows on the heels of every first question you want answered.
 
-###How will I know?
+**How will I know?**
 
 If you can figure out the answer to that question, you’ll be forced to confront every truth that is in front of you. A lot of people will balk at trying to answer this question, hollering that there is no objective way to know or that the data doesn’t yield statistically significant results,
 
