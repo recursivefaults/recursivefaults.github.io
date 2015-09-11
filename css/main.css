@@ -26,6 +26,34 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
   display: block;
 }
 
+p.center, div.center {
+    text-align:center;
+}
+
+.button.large-button {
+    font-size: 1.5em;
+    height: 120px;
+    width: 120px;
+}
+
+.button {
+    min-width: 80px;
+    height: 40px;
+    background-color: #e85151;
+    moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    padding: 10px;
+}
+
+.button:hover {
+    color: #aaa;
+}
+
+a.button {
+    border-bottom: none;
+}
+
+
 audio, canvas, video {
   display: inline-block;
 }

@@ -32,7 +32,9 @@ layout: default
         Price: $100<br />
         Duration: 1 hour
         </p>
-        <p>Email me to set up a time &nbsp;{% include email.html %}</p>
+        <p class="center">
+            {% include email.html text="Set up a time" id="call-button"  %}
+        </p>
     </div>
     <div class="col">
         <h3>Coaching and Mentoring</h3>
@@ -46,8 +48,7 @@ layout: default
             <li>Implementing Agile or Lean practices</li>
         </ul>
         <br />
-
-        <p>Email me if you're interested &nbsp;{% include email.html %}</p>
+        <p class="center">{% include email.html id="coaching-button" %}</p>
 
     </div>
 </section>

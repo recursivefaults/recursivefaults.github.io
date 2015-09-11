@@ -2,11 +2,13 @@
 title: Ryan Latta
 email: latta.ryan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    Building software is hard. Actually getting results can seem impossible.
+    I am interested in exploring what it takes to delivering software that
+    has meaningful impact for customers, users, and businesses. I bring lean
+    and agile tools and thinking to groups and teams so they can find a way
+    to continually improve and relentlessly pursue meaningful results.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://ryanlatta.com" # the base hostname & protocol for your site
 twitter_username: recursivefaults
 github_username:  recursivefaults
 
