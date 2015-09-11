@@ -1,9 +1,9 @@
 <script>
   var buttonElements = document.querySelectorAll('a.button');
-  for(var index in buttonElements) {
-      var buttonElement = buttonElements[index];
+  for(var i = 0; i < buttonElements.length; ++i) {
+      var buttonElement = buttonElements.item(i);
       addListener(buttonElement, 'click', function() {
-          ga('send', 'event', 'button', 'click', buttonElement.id);
+          ga('send', 'event', 'button', 'click', this.id);
       });
   }
 
