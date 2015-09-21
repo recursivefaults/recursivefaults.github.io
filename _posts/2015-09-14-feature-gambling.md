@@ -22,7 +22,7 @@ these competitors. What kind of bet do you make?
 
 Well, most groups and organizations bet big. Hundreds of thousands or millions of dollars on their first play. The odds
 are with the house on this bet. The player has no idea how to play the game, has no experience playing it, and there
-is competition from other players as to who is going to collect winings. Luck exists at the table as it does in business,
+is competition from other players as to who is going to collect winnings. Luck exists at the table as it does in business,
 but the odds are not favorable on this first bet.
 
 This is where I believe people have a gut instinct that tends to be pretty good. Most people building software like this

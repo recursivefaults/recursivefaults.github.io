@@ -41,7 +41,7 @@ some goals of cutting costs, improving security, or any other number of importan
 ### The gap
 
 So, hopefully its obvious that there is a gap between these two roles. One is figuring out how to complete a defined
-project using resources and constaraints. Another is trying to discover and communicate the most valuable thing for
+project using resources and constraints. Another is trying to discover and communicate the most valuable thing for
 the group to accomplish.
 
 Doesn't the product owner have the same resource issues and constraints as the project manager? Sure they do, everyone
@@ -49,7 +49,7 @@ experiences those throughout an organization. There is a key difference between 
 though. A project manager will decide how to organize those resources. A product owner will allow the team they are on
 to organize those resources themselves. This is a powerful piece to being a self-organizing team.
 
-This allows the product owner to act with singular focus on delivering the most valuble things possible for the group, and
+This allows the product owner to act with singular focus on delivering the most valuable things possible for the group, and
 allowing the team as a whole to figure out with single focus on delivering it with all of the options at their disposal.
 
 So, if you're a project manager moving towards becoming a product owner when you feel like you are about to make a decision,
