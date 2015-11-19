@@ -12,6 +12,7 @@ permalink: /blog/
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h3> 
         <p> {{post.excerpt }}</p>
+        <a class="comment-link" href="http://ryanlatta.com{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
     </div>
     {% endfor %}
 </section>
