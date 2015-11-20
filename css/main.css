@@ -16,7 +16,9 @@ time, mark, audio, video {
   outline: 0;
   vertical-align: baseline;
   background: transparent;
-}
+} 
+
+ol{ padding-left:0; list-style-position:inside; }
 
 html, body {
   font-size: 100%;
@@ -289,7 +291,7 @@ h6 {
   font-size: 1em;
 }
 
-p {
+p, ol, ul {
   margin: 0 0 0.75em;
   font-family: "font-family: " Helvetica Neue ",Helvetica,Arial,sans-serif";
 }
@@ -549,7 +551,6 @@ header nav ul li a.bordered {
   margin-left: auto;
   margin-right: auto;
   padding-top: 2em;
-  padding-bottom: 5em;
 }
 #content section.row:after {
   content: "";
@@ -563,7 +564,7 @@ header nav ul li a.bordered {
   color: #e85151;
   margin-bottom: 0.05em;
 }
-#content section.row p {
+#content section.row {
   font-size: 1.2em;
   line-height: 1.6em;
 }
