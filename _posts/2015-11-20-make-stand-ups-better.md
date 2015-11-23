@@ -22,14 +22,14 @@ sometimes have a pretty good idea of what they will try to do today, which usual
 However, most teams are terrible at the 3rd question, and the answer to it is almost, "No blockers." 
 
 So here is a change to the stand-up that, if used for a while, may help create an atmosphere of people searching out their
-team mates for help earlier and more often. Instead of asking the 3 questions, have format become: 
+team mates for help earlier and more often. Instead of asking the 3 questions, have the format become: 
 
-1. Today I am working on <some problem> problem. Can anyone help me?
+1. Today I am working on &lt;some problem&gt; problem. Can anyone help me?
 
 
 When I talk to team members about what they're working on, and what problem they are trying to solve, they will go on
 and on about the problem, it's intricacies, and how it's pretty tricky. When I ask if they could use any help, they usually
-halfway admit that having someone go over it would probably be good, but that they will absolutely figure it out. This,
+admit that having someone go over it would probably be good, but that they will absolutely figure it out. This,
 is the opportunity that is missed almost every stand-up. We have become conditioned to think that as long as we can 
 eventually solve a problem that we won't benefit from help. 
 
