@@ -7,7 +7,7 @@ tags:
     - management
     - agile
 ---
-Today, [Ester Derby](http://www.esterderby.com) wrote on [Twitter](https://twitter.com/estherderby/status/690127669632110592):
+Today, [Esther Derby](http://www.esterderby.com) wrote on [Twitter](https://twitter.com/estherderby/status/690127669632110592):
 
 > Mystery of the week: why do #mgrs hire ppl for thinking ability, then get upset when same ppl question mgmt dictates?
 
