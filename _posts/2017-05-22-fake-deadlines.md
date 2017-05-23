@@ -13,10 +13,13 @@ have a deadline of the next Wednesday. My ears perked up.
 
 After the stand up was over I asked if I could come back to the deadline, and had the following dialog:
 
-"Is this a real deadline?"
-"Yeah, its real."
-"Ok, so what happens Wednesday and none of the work is done?"
-"Well, we push the deadline back. So it isn't really a hard deadline, but I need to put a date out there so things get
+>"Is this a real deadline?"
+>
+>"Yeah, its real."
+>
+>"Ok, so what happens Wednesday and none of the work is done?"
+>
+>"Well, we push the deadline back. So it isn't really a hard deadline, but I need to put a date out there so things get
 done."
 
 I didn't mistype that, that second question of mine prompted a stream of consciousness from the manager to unfurl what
@@ -29,8 +32,10 @@ let down, and I lose respect for my manager. And, that maybe, my feelings aren't
 He paused, and said that he didn't actually mean a deadline, he meant it was a target. One that we should really try to
 hit, because of our 6 month release cycles.
 
-During this dialog, I couldn't help but remember something small that I had learned in Coaching Beyond the Team with
-Esther Derby and Don Gray. The importance of neutral language. While this whole incident was completely unplanned,
+During this dialog, I couldnjt help but remember something small that I had learned in 
+[Coaching Beyond the Team](http://www.estherderby.com/coaching-beyond-the-team-influencing-the-organization) with
+Esther Derby ([@estherderby](https://twitter.com/estherderby)) and Don Gray ([@donaldegray](https://twitter.com/donaldegray)). 
+The importance of neutral language. While this whole incident was completely unplanned,
 I had strong attachments to the word, "Deadline," from my years of development experience, and after bringing it up we
 talked about something more important: Targets, goals, and priorities.
 
