@@ -472,6 +472,7 @@ header nav ul li {
 }
 header nav ul li a {
   font-weight: bold;
+  font-size: 1.5em;
 }
 header nav ul li a.bordered {
   border-radius: 0.2em;
@@ -523,7 +524,6 @@ header nav ul li a.bordered {
   font-size: 4em;
   border-top: 2px solid #fff;
   letter-spacing: -0.05em;
-  margin-top: 1.2em;
   margin-bottom: 1em;
 }
 @media screen and (max-width: 540px) {
