@@ -14,7 +14,7 @@ of activities. I was exhausted because I am an introvert.
 
 As an introvert, I spend energy being near people, whereas extroverts gain energy instead.
 
-A good friend, Chris Murman, said that he came to this open space to recharge. I can appreciate the idea of it, but
+A good friend, [Chris Murman](https://chrismurman.com/), said that he came to this open space to recharge. I can appreciate the idea of it, but
 I knew I would experience the opposite.
 
 I don't know how many fellow coaches are introverts compared to extroverts. I will say that our profession demands some
