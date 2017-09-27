@@ -38,11 +38,11 @@ to their observations. Hear if the problem is one real to them or not.
 
 Here's an example:
 
-There seems to be a problem with how much time production support is taking.
-I've noticed the number of support tickets has increased every release. Also,
-many of the solutions are simple fixes. I think we may want to add some
-automated tests so that we can catch simple mistakes beforehand. What do you
-think?
+> There seems to be a problem with how much time production support is taking.
+> I've noticed the number of support tickets has increased every release. Also,
+> many of the solutions are simple fixes. I think we may want to add some
+> automated tests so that we can catch simple mistakes beforehand. What do you
+> think?
 
 If you have found yourself getting stuck in debate about solutions, give this
 pattern a shot. It may help.
