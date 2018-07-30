@@ -1,5 +1,5 @@
 ---
-title: “WTF Meeting”
+title: WTF Meeting
 layout: post
 categories:
 tags:
@@ -35,13 +35,13 @@ So wtf happened?
 
 Meetings happened, lots of them. They all happened poorly. Here’s 2 changes that would have helped prevent this.
 
-1. Choose your attendees carefully
+## 1. Choose your attendees carefully
 
 This seems obvious, but there is an overwhelming tendency in most organizations to substitute managers for the people closest to the information. This happened several times in the story, and the non-technical manager simply couldn’t understand the changes well enough to talk about them. 
 
 As a corollary to this, inviting people in pairs helps.
 
-2. Summarize the meeting
+## 2. Summarize the meeting
 
 Everyone kept leaving the room confident in the decisions that had been made. Unfortunately they left the room with different decisions confidently. If you pay very close attention, most meetings have many small decisions or clarifications in them. Sending a summary out to all the attendees and the people impacted by them is very useful. When everyone reads that summary they will then be confronted with any incongruence that they have.
 
