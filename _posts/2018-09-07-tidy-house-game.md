@@ -1,5 +1,5 @@
 ---
-title: “A Tidy Home: A slicing and planning game”
+title: A Tidy Home: A slicing and planning game
 layout: post
 categories:
 tags:
