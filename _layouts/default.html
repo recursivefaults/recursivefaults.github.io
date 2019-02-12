@@ -3,21 +3,27 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="homepage">
+      <div id="page-wrapper">
 
-    {% include header.html %}
+          {% include header.html %}
 
-	<div id="content">
+          {{content}}
 
-        {{ content }}
-        
-        {% include contact.html %}
 
-    </div>
-
-    {% include footer.html %}
+          <section id="footer" class="wrapper">
+              {% include contact.html %}
+          </section>
+              {% include footer.html %}
+      </div>
 
     <script id="dsq-count-scr" src="//ryanlatta.disqus.com/count.js" async></script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.dropotron.min.js"></script>
+    <script src="/js/browser.min.js"></script>
+    <script src="/js/breakpoints.min.js"></script>
+    <script src="/js/util.js"></script>
+    <script src="/js/main.js"></script>
   </body>
 
 </html>

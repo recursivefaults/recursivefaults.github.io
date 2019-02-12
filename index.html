@@ -1,53 +1,66 @@
 ---
 layout: default
 ---
-{% include intro.html %}
-<section class="row">
-    <div class="col-full">
-        <h2>Am I Right For You?</h2>
-        <p>Let me first explain a few things that I am not. I am not a developer, designer, UX person, system administrator, DBA, or project manager.</p>
-        <p>I have been all of these things before, but I won't be them for your organization.</p>
-        <p>Instead, I can assist your team and organization discover what real high performance is like. I can help groups find
-        true purpose in the challenges ahead, and equip them with an agile/lean mindset backed with tried practices and methods
-        to attempt the most audacious mission that your organization that could change it's future forever.</p>
-    </div>
+<section id="intro" class="wrapper style1">
+  {% include intro.html %}
 </section>
-
-<section class="row">
-<h2>Services</h2>
-    <div class="col">
-        <h3>One-on-One</h3>
-        <p>Lets have a chat. Tell me about the problems you and your organization are facing, what you're considering and I'll give
-        my thoughts.</p>
-        <p>Here are some <i>potential</i> things I'd love to talk through with you:</p>
-        <ul>
-            <li>How do I get my boss to consider trying an idea.</li>
-            <li>How might an Agile set up look in my group?</li>
-            <li>What do you think I should know about SAFe, Scrum, Kanban, etc.</li>
-            <li><b>Or any other problem that is wearing on you</b></li>
-        </ul>
-        <br>
-        <p>
-        Price: $100<br />
-        Duration: 1 hour
-        </p>
-        <p class="center">
-            {% include email.html text="Set up a time" id="call-button"  %}
-        </p>
+<section id="main" class="wrapper style2">
+    <div class="title">
+        Services
     </div>
-    <div class="col">
-        <h3>Coaching and Mentoring</h3>
-        <p>Software creates change. Change in your users, and change in your organization. Having a coach or mentor guide you through this can be invaluable. Unfortunately there are no silver bullets.<br/>
-        I'll work closely with your organization in various areas:</p>
-        <ul>
-            <li>Education and workshops with senior leaderships on software as an industry, and the various practices in use.</li>
-            <li>Turning a marginally successful or failed software product around with validated learning</li>
-            <li>Interviewing potential new hires to help with future software</li>
-            <li>Building a high performing software team for the first time</li>
-            <li>Implementing Agile or Lean practices</li>
-        </ul>
-        <br />
-        <p class="center">{% include email.html id="coaching-button" %}</p>
 
+    <div class="container">
+        <section id="features">
+            <header class="style1">
+                <h2>Am I Right For You?</h2>
+                <p>Let me first explain a few things that I am not. I am not a developer, designer, UX person, system administrator, DBA, or project manager.</p>
+                <p>I have been all of these things before, but I won't be them for your organization.</p>
+                <p>Instead, I can assist your team and organization discover what real high performance is like. I can help groups find
+                true purpose in the challenges ahead, and equip them with an agile/lean mindset backed with tried practices and methods
+                to attempt the most audacious mission that your organization that could change it's future forever.</p>
+            </header>
+            <div class="feature-list">
+                <div class="row">
+                    <div class="col-6 col-12-medium">
+                        <section>
+                          <h3>One-on-One</h3>
+                          <p>Lets have a chat. Tell me about the problems you and your organization are facing, what you're considering and I'll give
+                          my thoughts.</p>
+                          <p>Here are some <i>potential</i> things I'd love to talk through with you:</p>
+                          <ul>
+                              <li>How do I get my boss to consider trying an idea.</li>
+                              <li>How might an Agile set up look in my group?</li>
+                              <li>What do you think I should know about SAFe, Scrum, Kanban, etc.</li>
+                              <li><b>Or any other problem that is wearing on you</b></li>
+                          </ul>
+                          <br>
+                          <p>
+                          Price: $100<br />
+                          Duration: 1 hour
+                          </p>
+                          <p class="center">
+                          {% include email.html text="Set up a time" id="call-button"  %}
+                          </p>
+                      </section>
+                    </div>
+                    <div class="col-6 col-12-medium">
+                        <section>
+                          <h3>Coaching and Mentoring</h3>
+                          <p>Software creates change. Change in your users, and change in your organization. Having a coach or mentor guide you through this can be invaluable. Unfortunately there are no silver bullets.<br/>
+                          I'll work closely with your organization in various areas:</p>
+                          <ul>
+                              <li>Education and workshops with senior leaderships on software as an industry, and the various practices in use.</li>
+                              <li>Turning a marginally successful or failed software product around with validated learning</li>
+                              <li>Interviewing potential new hires to help with future software</li>
+                              <li>Building a high performing software team for the first time</li>
+                              <li>Implementing Agile or Lean practices</li>
+                          </ul>
+                          <br />
+                          <p class="center">{% include email.html id="coaching-button" %}</p>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 </section>
