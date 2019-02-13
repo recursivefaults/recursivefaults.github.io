@@ -1,5 +1,5 @@
 ---
-title: A Tidy Home: A slicing and planning game
+title: A Tidy Home -  A slicing and planning game
 layout: post
 categories:
 tags:
@@ -9,7 +9,7 @@ tags:
     - story
     - slicing
     - decomposition
- ---
+---
 
 I’ve been working on a workshop to help teams and Product Owners understand user stories. One of the topics that very important for this group is sizing and breaking stories down.
 
