@@ -1,20 +1,6 @@
 ---
-layout: page
+layout: left
 title: Blog
 permalink: /blog/
 ---
-
-<section class="row">
-    <h2>Recent posts</h2>
-    {% for post in site.posts %}
-    <div class="col">
-        <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3> 
-        <p> {{post.excerpt }}</p>
-        <a class="comment-link" href="http://ryanlatta.com{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
-    </div>
-    {% endfor %}
-</section>
-
 <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->

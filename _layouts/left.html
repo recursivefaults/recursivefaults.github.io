@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="left-sidebar">
+      <div id="page-wrapper">
+
+          {% include header.html %}
+
+            <section id="main" class="style1">
+                <div class="title">
+                </div>
+                <div class="container">
+                    <div class="row gtr-150">
+                        <div class="col-4 col-12-medium">
+                            <div id="sidebar">
+                                <section class="box">
+                                    <header><h2>Recent Posts</h2></header>
+                                    <ul class="style2">
+                                    {% for post in site.posts %}
+                                        <li>
+                                            <article class="box post-excerpt">
+                                                <h3>
+                                                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                                                </h3> 
+                                                <p> {{post.excerpt }}</p>
+                                                <a class="comment-link" href="http://ryanlatta.com{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+                                            </article>
+                                        </li>
+                                    {% endfor %}
+                                    </ul>
+                                </section>
+                            </div>
+                        </div>
+                        <div class="col-8 col-12-medium imp-medium">
+                            <div id="content">
+                                {{content}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+          <section id="footer" class="wrapper">
+              {% include contact.html %}
+          </section>
+              {% include footer.html %}
+      </div>
+
+    <script id="dsq-count-scr" src="//ryanlatta.disqus.com/count.js" async></script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.dropotron.min.js"></script>
+    <script src="/js/browser.min.js"></script>
+    <script src="/js/breakpoints.min.js"></script>
+    <script src="/js/util.js"></script>
+    <script src="/js/main.js"></script>
+  </body>
+
+</html>

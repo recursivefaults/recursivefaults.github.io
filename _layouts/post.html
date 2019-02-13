@@ -1,21 +1,22 @@
 ---
-layout: default
+layout: left
 ---
 
-<section class="row">
-    <div class="col-full">
+<article class="box post">
+    <header class="style1">
         <h2 class="post-title">{{ page.title }} </h2>
             <p class="post-meta">
                 {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
                 <a href="http://ryanlatta.com{{page.url}}#disqus_thread" data-disqus-identifier="{{page.url}}"></a>
             </p>
+    </header>
         <a href="https://twitter.com/share" class="twitter-share-button"{count} data-via="recursivefaults" data-size="large">Tweet</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
         <script type="text/javascript">reddit_target='programming';</script>
         <script type="text/javascript" src="//www.redditstatic.com/button/button1.js"></script>
-        <article class="post-content">
-            {{ content }}
-        </article>
+
+        {{ content }}
+
         <div id="disqus_thread"></div>
         <script>
             /**
@@ -37,5 +38,4 @@ layout: default
             })();
         </script>
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-    </div>
-</section>
+</article>
