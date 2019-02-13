@@ -3,4 +3,25 @@ layout: left
 title: Blog
 permalink: /blog/
 ---
+<div class="title">
+    Posts
+</div>
+
+<div class="row aln-center">
+{% for post in site.posts %}
+    <div class="col-6 col-12-medium">
+        <section class="highlight">
+            <h3>
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <p> {{ post.date | date_to_string }}
+            <p> {{post.excerpt }}</p>
+            <a class="comment-link" href="http://ryanlatta.com{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+            <ul class="actions">
+                <li><a class="button style1" href="{{ post.url | prepend: site.baseurl }}">Read More</a></li>
+            </ul>
+        </section>
+    </div>
+    {% endfor %}
+</div>
 <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->

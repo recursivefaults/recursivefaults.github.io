@@ -1,0 +1,35 @@
+
+                            <div id="sidebar">
+                                <section class="box">
+                                    <header>
+                                        <h2>Recent Post</h2>
+                                    </header>
+                                    <ul class="style2">
+                                    {% for post in site.posts limit:1 %}
+                                        <li>
+                                            <article class="box post-excerpt">
+                                                <h3>
+                                                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                                                </h3> 
+                                                <p> {{post.excerpt }}</p>
+                                                <a class="comment-link" href="http://ryanlatta.com{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+                                            </article>
+                                        </li>
+                                    {% endfor %}
+                                    </ul>
+                                </section>
+                                <!--
+                                <section class="box">
+                                    <header>
+                                        <h2>Tags</h2>
+                                    </header>
+                                    <ul class="style2">
+                                    {% for tag in site.tags | sort: "last" %}
+                                        <li>
+                                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                                        </li>
+                                    {% endfor %}
+                                    </ul>
+                                </section>
+                                -->
+                            </div>
