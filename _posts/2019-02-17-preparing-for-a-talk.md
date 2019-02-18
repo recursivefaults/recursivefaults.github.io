@@ -2,11 +2,11 @@
 title: Preparing For a Talk
 layout: post
 tags:
-	- conference
-	- talk
-	- preparation
-	- prepare
-	- how-to
+    - conference
+    - talk
+    - preparation
+    - prepare
+    - how-to
 ---
 
 

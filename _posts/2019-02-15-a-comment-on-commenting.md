@@ -8,8 +8,6 @@ tags:
     - development
 ---
 
-# A Comment on Commenting
-
 Steve is new to software, they spend a lot of time reading documentation, writing code, commenting it out, and trying again.
 
 Laura works a little differently. She doesn’t comment out blocks of code, but she uses branches and stashes to preserve her thoughts as she works.
