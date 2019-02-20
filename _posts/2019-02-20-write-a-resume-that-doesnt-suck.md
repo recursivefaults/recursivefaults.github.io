@@ -8,7 +8,7 @@ tags:
 ---
 For developers today they have a lot of things to consider when applying for their first few jobs. Do they build a great portfolio? Do they invest in curating a great GitHub profile? Do they update their resume? Should they craft an ideal cover letter?
 
-The bottom line is that in almost every scenario, a developer will have to send in a resume for a job. If they have a great Github profile they’ll have to send a resume along. A resume will have to be sent even if a friend within the company is making a recommendation. Got a gorgeous portfolio? Thats great, send along your resume to start the process!
+The bottom line is that in almost every scenario, a developer will have to send in a resume for a job. If they have a great Github profile they’ll have to send a resume along. A resume will have to be sent even if a friend within the company is making a recommendation. Got a gorgeous portfolio? That's great, send along your resume to start the process!
 
 Writing a great resume is foundational to the job search process. It is a currency that is passed along that can exclude you from opportunities and distinguish you from the pile of other resumes.
 
@@ -16,7 +16,7 @@ Writing a great resume is foundational to the job search process. It is a curren
 
 I completed my B.S. in Computer Science and then moved to Japan for a year. When I came back I began my job search in software development. Nobody would hire me.
 
-I had my resume that I wrote in some class in college. My resume was some terrible thing that I slapped together to complete an assignment. I set to work on making my resume less repulsive.
+I had the resume that I wrote in some class in college. My resume was some terrible thing that I slapped together to complete an assignment. I set to work on making my resume less repulsive.
 
 A few months later, almost every time I sent a resume I received a request for an interview. This was with no software experience.
 
@@ -32,7 +32,7 @@ As you read my advice, think about what these people may want to see in a resume
 
 ## Skills
 
-The basic structure I’ve used for years is to begin with a section highlighting my skills.
+The basic structure I’ve used for years begins with a section highlighting my skills.
 
 I start here because the first person to read my resume will often be someone in HR. They don’t understand software development. They have a job listing that was written by someone else that they are trying to match against. They will do this at a very shallow level. That means they will look for keywords that match.
 
@@ -52,7 +52,7 @@ I’m not saying you have to be an expert in everything you list, but you do nee
 
 The second section and the meat of the resume is my experience. Starting off this can be pretty thin or really hard to conjure up.
 
-For each job or piece of experience you list, include these elements: Company name, years worked, and the value you created.
+For each job or piece of experience that you list, include these elements: Company name, years worked, and the value you created.
 
 Note I didn’t say to include your title. I also didn’t say to list what you did at your job.
 
@@ -60,12 +60,12 @@ Many people fall into the trap of listing their job duties in their experience. 
 
 What you write about instead is the impact you had, the outcomes you delivered, or the value you brought. This takes some practice to come up with. Here’s a contrived example:
 
-From: “Built a web application using react, node, and postgres.”
+From: “Built a web application using react, node, and Postgres.”
 To: “Built an application that led to 1.2 million in revenue.”
 
-Wanna guess who will get called in based on those two statements? It won’t be the the person who listed react.
+Wanna guess who will get called in based on those two statements? It won’t be the person who listed react.
 
-Feel free to highlight certain things that you want to draw the development manager to. Feel free to weave your skills into these things, but stay focused on the outcomes. Listing a skill in these bullet points is something you do as a very specific thing to blow their mind. If you know they are using specific technology and called out scale, then that is a perfect opportunity to describe a scaling problem you solved with that technology.
+Feel free to highlight certain things that you want to pull the development manager’s attention. Weave your skills into these things, but stay focused on the outcomes. Listing a skill in these bullet points is something you do to blow their mind. If you know they are using specific technology and called out scale, for example, then that is a perfect opportunity to describe a scaling problem you solved with that technology.
 
 Otherwise, stay value focused.
 
