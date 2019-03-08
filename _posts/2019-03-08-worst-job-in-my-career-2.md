@@ -1,14 +1,14 @@
 ---
-title: Worst Job in My Career 2: The First 8 Months
+title: Worst Job in My Career 2 -  The First 8 Months
 tags:
-- story
-- series
-- suffering
-- career
-- pain
+    - story
+    - series
+    - suffering
+    - career
+    - pain
 ---
 
-Back for more? Welcome to the second article in a series about the worst job I’ve had in my career. The series was kicked off back in a [previous article]({{ site.baseurl }}{% post_url 2019-03-09-worst-job-in-my-career %}). 
+Back for more? Welcome to the second article in a series about the worst job I’ve had in my career. The series was kicked off back in a [previous article]({{ site.baseurl }}{% post_url 2019-03-08-worst-job-in-my-career %}). 
 
 Let me share with you what happened in the first 8 months of joining a company that espouses a fulfilling career and great life balance.
 

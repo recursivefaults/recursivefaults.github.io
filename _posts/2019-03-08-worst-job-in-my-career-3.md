@@ -1,11 +1,11 @@
 ---
-title: Worst Job in My Career 2: The Second Project
+title: Worst Job in My Career 2 - The Second Project
 tags:
-- story
-- series
-- suffering
-- career
-- pain
+    - story
+    - series
+    - suffering
+    - career
+    - pain
 ---
 
 
