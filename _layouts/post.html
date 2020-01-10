@@ -1,7 +1,48 @@
 ---
-layout: left
+layout: default
 ---
+<header>
+    <div class="inner">
+        <h2>{{page.title}}</h2>
+            <p class="post-meta">
+                {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+                <a href="http://ryanlatta.com{{page.url}}#disqus_thread" data-disqus-identifier="{{page.url}}"></a>
+            </p>
+    </div>
+</header>
+<div class="wrapper">
+    <div class="inner">
+        <a href="https://twitter.com/share" class="twitter-share-button"{count} data-via="recursivefaults" data-size="large">Tweet</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <script type="text/javascript">reddit_target='programming';</script>
+        <script type="text/javascript" src="//www.redditstatic.com/button/button1.js"></script>
 
+        {{ content }}
+        <div id="disqus_thread"></div>
+        <script>
+            /**
+            * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+            * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+            */
+            var disqus_config = function () {
+                this.page.url = "http://ryanlatta.com{{page.url}}"; // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "{{page.url}}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            };
+            
+            (function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+
+            s.src = '//ryanlatta.disqus.com/embed.js';
+
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+    </div>
+</div>
+
+<!--
 <article class="box post">
     <header class="style1">
         <h2 class="post-title">{{ page.title }} </h2>
@@ -38,4 +79,4 @@ layout: left
             })();
         </script>
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-</article>
+</article> -->

@@ -1,12 +1,35 @@
 ---
-layout: left
+layout: default
 title: Blog
 permalink: /blog/
 ---
-<div class="title">
-    Posts
+<header>
+    <div class="inner">
+        <h2>Ryan's Blog</h2>
+        <p></p>
+    </div>
+</header>
+<div class="wrapper">
+    <div class="inner">
+        <section class="features">
+            {% for post in site.posts %}
+            <article>
+                <h3 class="major">
+                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h3>
+                <p> {{ post.date | date_to_string }}
+                <p> {{post.excerpt }}</p>
+                <a class="special comment-link" href="http://ryanlatta.com{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+                <ul class="actions">
+                    <li><a class="special" href="{{ post.url | prepend: site.baseurl }}">Read More</a></li>
+                </ul>
+                    
+            </article>
+            {% endfor %}
+        </section>
+    </div>
 </div>
-
+<!--
 <div class="row aln-center">
 {% for post in site.posts %}
     <div class="col-6 col-12-medium">
@@ -24,4 +47,4 @@ permalink: /blog/
     </div>
     {% endfor %}
 </div>
-<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->

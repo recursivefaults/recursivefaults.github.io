@@ -3,12 +3,15 @@
 
   {% include head.html %}
 
-  <body class="homepage">
+  <body class="is-preload">
       <div id="page-wrapper">
 
           {% include header.html %}
 
-          {{content}}
+          {% include menu.html %}
+          <section id="wrapper">
+              {{content}}
+          </section>
 
 
           <section id="footer" class="wrapper">
@@ -19,7 +22,7 @@
 
     <script id="dsq-count-scr" src="//ryanlatta.disqus.com/count.js" async></script>
     <script src="/js/jquery.min.js"></script>
-    <script src="/js/jquery.dropotron.min.js"></script>
+    <script src="/js/jquery.scrollex.min.js"></script>
     <script src="/js/browser.min.js"></script>
     <script src="/js/breakpoints.min.js"></script>
     <script src="/js/util.js"></script>
