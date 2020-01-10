@@ -1,0 +1,20 @@
+---
+layout: default
+title: Consulting Articles and Newsletters
+---
+<header>
+    <div class="inner">
+        <h2>Articles and Newsletters</h2>
+        <p></p>
+    </div>
+</header>
+<div class="wrapper">
+    <div class="inner">
+        <section class="features">
+            {% assign filtered = site.posts | where: "category", nil %}
+            {% for post in filtered %}
+            {% include article-snippit.html %}
+            {% endfor %}
+        </section>
+    </div>
+</div>

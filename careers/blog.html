@@ -1,0 +1,19 @@
+---
+layout: default
+title: Career Articles and Newsletters
+---
+<header>
+    <div class="inner">
+        <h2>Articles and Newsletters</h2>
+        <p></p>
+    </div>
+</header>
+<div class="wrapper">
+    <div class="inner">
+        <section class="features">
+            {% for post in site.categories.career %}
+            {% include article-snippit.html %}
+            {% endfor %}
+        </section>
+    </div>
+</div>

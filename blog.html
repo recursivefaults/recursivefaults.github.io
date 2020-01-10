@@ -13,18 +13,7 @@ permalink: /blog/
     <div class="inner">
         <section class="features">
             {% for post in site.posts %}
-            <article>
-                <h3 class="major">
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </h3>
-                <p> {{ post.date | date_to_string }}
-                <p> {{post.excerpt }}</p>
-                <a class="special comment-link" href="http://ryanlatta.com{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
-                <ul class="actions">
-                    <li><a class="special" href="{{ post.url | prepend: site.baseurl }}">Read More</a></li>
-                </ul>
-                    
-            </article>
+            {% include article-snippit.html %}
             {% endfor %}
         </section>
     </div>
