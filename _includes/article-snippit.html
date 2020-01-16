@@ -5,9 +5,8 @@
     </h3>
     <p> {{ post.date | date_to_string }}
     <p> {{post.excerpt }}</p>
-    <a class="special comment-link" href="http://ryanlatta.com{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+    <a class="comment-link" href="{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.date}}-{{post.title}}"></a>
     <ul class="actions">
         <li><a class="special" href="{{ post.url | prepend: site.baseurl }}">Read More</a></li>
     </ul>
-
 </article>
