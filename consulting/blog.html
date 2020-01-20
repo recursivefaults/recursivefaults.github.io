@@ -11,9 +11,8 @@ title: Consulting Articles and Newsletters
 <div class="wrapper">
     <div class="inner">
         <section class="features">
-            {% assign filtered = site.posts | where: "category", nil %}
-            {% for post in filtered %}
-            {% include article-snippit.html %}
+            {% for post in site.categories.consulting %}
+                {% include article-snippit.html %}
             {% endfor %}
         </section>
     </div>
