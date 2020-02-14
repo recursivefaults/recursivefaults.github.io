@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
     and agile tools and thinking to groups and teams so they can find a way
     to continually improve and relentlessly pursue meaningful results.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ryanlatta.com" # the base hostname & protocol for your site
+url: "https://ryanlatta.com" # the base hostname & protocol for your site
 twitter_username: recursivefaults
 github_username:  recursivefaults
 
