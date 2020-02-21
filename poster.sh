@@ -8,7 +8,7 @@ do
     echo $DATE_STR
     if [[ $COMPARED_DATE > $DATE_STR  ]]; then
         echo "$FILE is ready for publication, moving it to posts"
-        mv $FILE _/posts
+        mv $FILE _/posts/
     fi
 done
 
