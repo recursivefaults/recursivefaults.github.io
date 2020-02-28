@@ -1,11 +1,12 @@
 ---
-title: Habit: Update your Resume
+title: "Habit: Update your Resume"
 category: career
 tags: 
-- newsletter
-- habit
-- resume
+    - newsletter
+    - habit
+    - resume
 ---
+
 Getting ready to change jobs takes a lot of effort and courage. After you’ve made up your mind, then comes all details of getting ready: Searching for jobs, asking friends, updating resumes, LinkedIn, and so on. But, there is a habit that if you start now and keep up with it will pay off in multiple ways.
 
 Updating your resume continuously.
