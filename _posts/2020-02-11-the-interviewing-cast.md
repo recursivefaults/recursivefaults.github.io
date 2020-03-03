@@ -1,6 +1,6 @@
 ---
 title: The Interviewing Cast
-cover_img: https://source.unsplash.com/p6rNTdAPbuk/900x500
+cover_image: https://source.unsplash.com/p6rNTdAPbuk/900x500
 category:
 - career
 tags:
