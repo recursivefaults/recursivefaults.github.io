@@ -1,5 +1,6 @@
 ---
 title: 3 Tips for Guerrilla Facilitation
+cover_image: https://source.unsplash.com/NodtnCsLdTE/900x500
 tags:
 - meeting
 - facilitation

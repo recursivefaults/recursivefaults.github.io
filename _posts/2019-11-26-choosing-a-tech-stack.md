@@ -1,5 +1,6 @@
 ---
 title: Choosing a Tech Stack
+cover_image: https://source.unsplash.com/Xz7MMD5tZwA/900x500
 tags:
 - technology
 - development

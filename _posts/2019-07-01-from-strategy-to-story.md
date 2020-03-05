@@ -1,5 +1,6 @@
 ---
 title: From Strategy to Story
+cover_image: https://source.unsplash.com/ZSPBhokqDMc/900x500
 tags:
 - agile
 - planning

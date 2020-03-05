@@ -1,5 +1,6 @@
 ---
 title: Bounded and Centered
+cover_image: https://source.unsplash.com/3jBU9TbKW7o/900x500
 tags:
 - community
 - discussion

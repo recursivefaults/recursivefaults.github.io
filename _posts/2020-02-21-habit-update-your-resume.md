@@ -1,5 +1,6 @@
 ---
 title: "Habit: Update your Resume"
+cover_image: https://source.unsplash.com/y02jEX_B0O0/900x500
 category: career
 tags: 
     - newsletter
@@ -19,7 +20,7 @@ Also, this same journal is something you can use during review time to seek a ra
 
 It does take a little extra work, but setting aside thirty minutes a month to update your resume will pay off many times more than the time you spent. When you decide to change jobs or get a raise, have your best ammunition on hand instead of searching for it.
 
-** Update **
+**Update**
 
 My book, *Land the Job* just went live! It is a complete guide on getting the job you want in the software industry covering everything from resumes to salary negotiation. 
 

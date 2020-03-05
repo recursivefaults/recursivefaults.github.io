@@ -1,5 +1,6 @@
 ---
 title: What Lifestyle Do You Want?
+cover_image: https://source.unsplash.com/GIsFHopvbPA/900x500
 category: career
 tags:
 - newsletter
