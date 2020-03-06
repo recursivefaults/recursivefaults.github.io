@@ -1,5 +1,6 @@
 ---
 title: 'Entrepreneur Activity: Say Yes'
+cover_image: https://source.unsplash.com/Ev1XqeVL2wI/900x500
 layout: post
 categories:
 tags:

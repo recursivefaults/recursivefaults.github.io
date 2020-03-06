@@ -1,5 +1,6 @@
 ---
 title: Features and Gambling
+cover_image: https://source.unsplash.com/GikVY_KS9vQ/900x500
 layout: post
 categories:
 tags:

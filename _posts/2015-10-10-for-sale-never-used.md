@@ -1,5 +1,6 @@
 ---
 title: "For Sale: Software, Never Used"
+cover_image: https://source.unsplash.com/Eq9uX_TuE_c/900x500
 layout: post
 categories:
 tags:
