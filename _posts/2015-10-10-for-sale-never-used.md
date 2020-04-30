@@ -67,7 +67,7 @@ it for you.
     the situation is all too common that the way to succeed is just to satisfy that superior, no matter how absurd it is
     to do so.
     
-    ![If the superior is happy, I'm successful.](/images/org_image_1.jpg)
+    ![If the superior is happy, I'm successful.]({{site.url}}/images/org_image_1.jpg)
 
     Consider an alternative where your measure of success is related to the impact you have in accomplishing the goals
     of the organization, instead of what your superior says. This allows you the freedom to explore, to try, to fail, to
@@ -75,6 +75,6 @@ it for you.
     who report to you to actually help deliver on what you were always trying to without putting all of the risk on your
     shoulders to make the right choice on what should be done.
 
-    ![If the user/company is happy, I'm successful.](/images/org_image_2.jpg)
+    ![If the user/company is happy, I'm successful.]({{site.url}}/images/org_image_2.jpg)
 
 
