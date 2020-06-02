@@ -1,5 +1,5 @@
 ---
-title: “Habit: Checking-In”
+title: "Habit: Checking-In"
 cover_image: https://source.unsplash.com/G_lwAp0TF38/900x500
 category:
 - consulting
