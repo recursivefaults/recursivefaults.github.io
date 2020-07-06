@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Consulting Articles and Newsletters
+pagination:
+  enabled: true
+  category: consulting
 ---
 <header>
     <div class="inner">
@@ -11,9 +14,10 @@ title: Consulting Articles and Newsletters
 <div class="wrapper">
     <div class="inner">
         <section class="features">
-            {% for post in site.categories.consulting %}
+            {% for post in paginator.posts %}
                 {% include article-snippit.html %}
             {% endfor %}
+            {% include pagination-links.html %}
         </section>
     </div>
 </div>

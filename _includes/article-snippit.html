@@ -1,5 +1,8 @@
 
 <article>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="image">
+        <img src="{{post.cover_image}}" />
+    </a>
     <h3 class="major">
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h3>

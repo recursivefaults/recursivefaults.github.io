@@ -14,6 +14,7 @@ github_username:  recursivefaults
 
 plugins:
     - jekyll-feed
+    - jekyll-paginate-v2
 
 feed:
     categories:
@@ -24,6 +25,9 @@ markdown: kramdown
 
 sass:
     sass_dir: _sass
+
+permalink: /:year/:month/:title.html
+
 defaults:
     -
       scope:
@@ -32,3 +36,9 @@ defaults:
       values:
         layout: "post" 
         category: "consulting" 
+
+pagination:
+  enabled: true
+  per_page: 8
+  sort_field: 'date'
+  sort_reverse: true

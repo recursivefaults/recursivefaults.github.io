@@ -1,6 +1,9 @@
 ---
 layout: career-promotion
 title: Career Articles and Newsletters
+pagination:
+  enabled: true
+  category: career
 ---
 <header>
     <div class="inner">
@@ -11,9 +14,10 @@ title: Career Articles and Newsletters
 <div class="wrapper">
     <div class="inner">
         <section class="features">
-            {% for post in site.categories.career %}
+            {% for post in paginator.posts %}
             {% include article-snippit.html %}
             {% endfor %}
+            {% include pagination-links.html %}
         </section>
     </div>
 </div>
