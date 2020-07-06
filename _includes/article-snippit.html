@@ -6,10 +6,16 @@
     <h3 class="major">
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h3>
-    <p> {{ post.date | date_to_string }}
+    <p> {{ post.date | date_to_string }} </p>
     <p> {{post.excerpt }}</p>
     <a class="comment-link" href="{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{post.date}}-{{post.title}}"></a>
     <ul class="actions">
         <li><a class="special" href="{{ post.url | prepend: site.baseurl }}">Read More</a></li>
+    </ul>
+    <h4>Tags:</h4>
+    <ul class="tag-snippit">
+        {% for tag in post.tags %}
+        <li><a href="/tag/{{tag | slugify}}">{{tag}}</a></li>
+        {% endfor %}
     </ul>
 </article>

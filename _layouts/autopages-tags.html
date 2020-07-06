@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<header>
+    <div class="inner">
+        <h2>{{page.autopages.display_name}} Posts</h2>
+        <p></p>
+    </div>
+</header>
+<div class="wrapper">
+    <div class="inner">
+        <section class="features">
+            {% for post in paginator.posts %}
+            {% include article-snippit.html %}
+            {% endfor %}
+            {% include pagination-links.html %}
+        </section>
+    </div>
+</div>

@@ -42,3 +42,11 @@ pagination:
   per_page: 8
   sort_field: 'date'
   sort_reverse: true
+
+autopages:
+  enabled: true
+  tags:
+    layouts: 
+      - 'autopages-tags.html'
+    permalink: '/tag/:tag'
+

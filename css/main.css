@@ -2635,13 +2635,13 @@ input, select, textarea {
 
 /* Icons */
 
-	ul.icons {
+	ul.icons ul.tag-snippit {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
 	}
 
-		ul.icons li {
+		ul.icons li, ul.tag-snippit li {
 			display: inline-block;
 			padding: 0 1em 0 0;
 		}
@@ -2653,6 +2653,10 @@ input, select, textarea {
 			ul.icons li .icon:before {
 				font-size: 1.25em;
 			}
+    ul.tag-snippit li {
+        text-transform: uppercase;
+        font-size: .8em;
+    }
 
 /* Contact */
 
