@@ -17,9 +17,14 @@ plugins:
     - jekyll-paginate-v2
 
 feed:
+    tags:
+      path: "/feed/tags/"
+      only:
+        - newsletter
     categories:
         - career
         - consulting
+
 # Build settings
 markdown: kramdown
 
