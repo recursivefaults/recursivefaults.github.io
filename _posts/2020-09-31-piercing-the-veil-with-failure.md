@@ -5,8 +5,6 @@ tags:
 - learn
 - fail
 - experiment
-categories:
-- consulting
 ---
 Years ago, I worked with a team, and they showed some remarkable results after I suggested some pretty bold changes. On that team, there was one person who continued to work the way they always did. The team was frustrated with them and eventually exhausted themselves, trying to get them to participate. The whole team went back to the way they did things before.
 
