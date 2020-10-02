@@ -4,16 +4,18 @@ layout: default
 <header>
     <div class="inner">
         <h2>{{page.title}}</h2>
+            
             <p class="post-meta">
                 {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
-                <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{page.date}}-{{page.title}}"></a>
             </p>
     </div>
 </header>
 <div class="wrapper">
     <div class="inner">
-        <a href="https://twitter.com/share" class="twitter-share-button"{count} data-via="recursivefaults" data-size="large">Tweet</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <div class="actions">
+            <a href="https://twitter.com/share" class="twitter-share-button"{count} data-via="recursivefaults" data-size="large">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
+        </div>
 
         {{ content }}
     </div>
