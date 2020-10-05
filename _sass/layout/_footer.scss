@@ -28,6 +28,7 @@
 				width: calc(50% - #{_size(section-spacing, large) * 0.5});
 			}
 			.newsletter {
+                margin: 0 _size(section-spacing, large) 0 0;
 				width: calc(50% - #{_size(section-spacing, large) * 0.5});
 			}
 
