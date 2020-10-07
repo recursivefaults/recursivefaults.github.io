@@ -1,7 +1,7 @@
 ---
 title: "Blast Radius"
 layout: post
-categories:
+category:
 tags:
     - agile
     - team

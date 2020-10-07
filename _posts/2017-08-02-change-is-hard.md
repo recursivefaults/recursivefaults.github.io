@@ -1,7 +1,7 @@
 ---
 title: "Change is Hard"
 layout: post
-categories:
+category:
 tags:
     - agile
     - coaching

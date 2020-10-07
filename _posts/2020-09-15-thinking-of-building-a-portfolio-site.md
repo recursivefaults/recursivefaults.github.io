@@ -1,7 +1,7 @@
 ---
 title: Thinking About a Portfolio Site?
 cover_image: https://source.unsplash.com/GI1hwOGqGtE/900x500
-categories:
+category:
 - career
 tags:
 - portfolio

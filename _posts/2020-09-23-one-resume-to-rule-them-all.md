@@ -1,7 +1,7 @@
 ---
 title: One Resume to Rule Them All
 cover_image: https://source.unsplash.com/CppuxXh6nxE/900x500
-categories:
+category:
 - career
 tags:
 - resume

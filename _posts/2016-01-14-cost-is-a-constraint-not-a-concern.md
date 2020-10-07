@@ -1,7 +1,7 @@
 ---
 title: 'Cost Is A Constraint, Not A Concern'
 layout: post
-categories:
+category:
 tags:
     - consulting
     - project management

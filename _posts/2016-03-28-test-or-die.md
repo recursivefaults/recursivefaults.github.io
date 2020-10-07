@@ -1,7 +1,7 @@
 ---
 title: "Test or Die"
 layout: post
-categories:
+category:
 tags:
     - development
     - testing

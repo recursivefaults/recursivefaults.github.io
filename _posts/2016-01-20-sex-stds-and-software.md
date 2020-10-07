@@ -1,7 +1,7 @@
 ---
 title: 'Sex, STDs, and Software'
 layout: post
-categories:
+category:
 tags:
     - software
     - programming

@@ -1,7 +1,7 @@
 ---
 title: "Making Stand-Ups Better"
 layout: post
-categories:
+category:
 tags:
     -stand-up
     -meeting

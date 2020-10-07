@@ -1,7 +1,7 @@
 ---
 title: 'A Model For High Performing Teams'
 layout: post
-categories:
+category:
 tags:
     - agile
     - scrum

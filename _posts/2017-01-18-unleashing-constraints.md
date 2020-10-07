@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Constraints"
 layout: post
-categories:
+category:
 tags:
     - theory of constraints
     - toc

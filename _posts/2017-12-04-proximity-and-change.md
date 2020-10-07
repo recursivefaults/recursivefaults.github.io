@@ -1,7 +1,7 @@
 ---
 title: "Proximity and Change"
 layout: post
-categories:
+category:
 tags:
     - change
     - agile

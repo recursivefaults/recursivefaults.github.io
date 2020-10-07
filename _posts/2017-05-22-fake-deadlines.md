@@ -1,7 +1,7 @@
 ---
 title: "Fake Deadlines"
 layout: post
-categories:
+category:
 tags:
     - agile
     - team

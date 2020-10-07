@@ -1,7 +1,7 @@
 ---
 title: "Estimate Value Not Complexity"
 layout: post
-categories:
+category:
 tags:
     - agile
     - scrum

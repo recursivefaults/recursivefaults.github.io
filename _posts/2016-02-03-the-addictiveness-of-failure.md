@@ -1,7 +1,7 @@
 ---
 title: 'The Addictiveness of Failure'
 layout: post
-categories:
+category:
 tags:
     - software
     - management

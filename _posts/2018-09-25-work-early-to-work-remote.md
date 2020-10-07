@@ -1,7 +1,7 @@
 ---
 title: Work Early to Work Remote
 layout: post
-categories:
+category:
 tags:
     - facilitation
     - meeting

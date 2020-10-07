@@ -1,7 +1,7 @@
 ---
 title: 'Scrum Masters Make People Out of Employees'
 layout: post
-categories:
+category:
 tags:
     - agile
     - scrum

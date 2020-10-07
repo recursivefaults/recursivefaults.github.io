@@ -5,7 +5,7 @@ tags:
 - consulting
 - fail
 - learning
-categories:
+category:
 - consulting
 ---
 Fancy title, but it is a simple idea. Here’s a [publication from NASA](https://sma.nasa.gov/docs/default-source/safety-messages/safetymessage-normalizationofdeviance-2014-11-03b.pdf?sfvrsn=4) on the topic as it relates to the Challenger disaster.

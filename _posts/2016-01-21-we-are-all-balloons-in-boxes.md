@@ -1,7 +1,7 @@
 ---
 title: 'We Are All Balloons in Boxes'
 layout: post
-categories:
+category:
 tags:
     - software
     - management

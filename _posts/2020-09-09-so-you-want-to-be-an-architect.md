@@ -5,7 +5,7 @@ tags:
 - architecture
 - software
 - career
-categories:
+category:
 - career
 - consulting
 ---

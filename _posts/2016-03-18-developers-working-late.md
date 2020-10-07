@@ -1,7 +1,7 @@
 ---
 title: "Developers Working Late"
 layout: post
-categories:
+category:
 tags:
     - agile
     - management

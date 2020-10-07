@@ -1,7 +1,7 @@
 ---
 title: "People and System Thinking"
 layout: post
-categories:
+category:
 tags:
     -system thinking
     -people

@@ -1,7 +1,7 @@
 ---
 title: How I Stopped On Call Support
 cover_image: https://source.unsplash.com/dmkmrNptMpw/900x500
-categories:
+category:
 - career
 - consulting
 tags:

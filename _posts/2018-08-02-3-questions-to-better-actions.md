@@ -2,7 +2,7 @@
 title: 3 Questions to Better Actions
 cover_image: https://source.unsplash.com/3qbBwA8QCEY/900x500
 layout: post
-categories:
+category:
 tags:
     - communication
     - facilitation

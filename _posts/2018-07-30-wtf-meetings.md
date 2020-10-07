@@ -1,7 +1,7 @@
 ---
 title: WTF Meeting
 layout: post
-categories:
+category:
 tags:
     - communication
     - facilitation

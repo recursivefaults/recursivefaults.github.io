@@ -1,7 +1,7 @@
 ---
 title: 'Refactoring Makes You Happy! Do it!'
 layout: post
-categories:
+category:
 tags:
     - refactoring
     - programming

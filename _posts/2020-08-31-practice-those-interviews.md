@@ -1,7 +1,7 @@
 ---
 title: Practice Those Interviews
 cover_image: https://source.unsplash.com/Vbzx-yy5FoA/900x500
-categories: career
+category: career
 tags:
 - interview
 - practice

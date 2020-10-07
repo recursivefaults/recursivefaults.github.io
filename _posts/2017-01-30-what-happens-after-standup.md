@@ -1,7 +1,7 @@
 ---
 title: "What Happens After Standup?"
 layout: post
-categories:
+category:
 tags:
     - agile
     - standup

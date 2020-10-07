@@ -1,7 +1,7 @@
 ---
 title: A Tidy Home -  A slicing and planning game
 layout: post
-categories:
+category:
 tags:
     - game
     - facilitation
