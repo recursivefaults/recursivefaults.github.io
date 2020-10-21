@@ -41,6 +41,27 @@ defaults:
       values:
         layout: "post" 
         category: "consulting" 
+    - scope:
+        path: ""
+        type: "page"
+      values:
+        cta_text: Join Now!
+        cta_url: https://bost.link/UmkgWn
+        lead_text: Be the first to know about my tips, webinars, and offers
+    - scope:
+        path: ""
+        category: "career"
+      values:
+        lead_text: "Want a free 20% off my newest book: Land the Job?"
+        cta_text: Gimme!
+        cta_url: https://bost.link/a05rzK
+    - scope:
+        path: ""
+        category: "consulting"
+      values:
+        cta_text: Join Now!
+        cta_url: https://bost.link/UmkgWn
+        lead_text: Be the first to know about my tips, webinars, and offers
 
 pagination:
   enabled: true
