@@ -6,10 +6,37 @@
 
 (function($) {
 
+    function createCookie(name, value, days) {
+        var expires;
+
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toGMTString();
+        } else {
+            expires = "";
+        }
+        document.cookie = encodeURIComponent(name) + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = encodeURIComponent(name) + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) === ' ')
+                c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) === 0)
+                return decodeURIComponent(c.substring(nameEQ.length, c.length));
+        }
+        return null;
+    }
+
 	var	$window = $(window),
 		$body = $('body'),
 		$header = $('#header'),
 		$banner = $('#banner');
+        $cta = $('#cta');
 
 	// Breakpoints.
 		breakpoints({
@@ -22,6 +49,12 @@
 
 	// Play initial animations on page load.
 		$window.on('load', function() {
+
+            var c = readCookie('cta');
+            if(c != undefined || c !==  null) {
+                $cta._hide()
+            }
+
 			window.setTimeout(function() {
 				$body.removeClass('is-preload');
 			}, 100);
@@ -41,6 +74,17 @@
 			});
 
 		}
+
+    // CTA
+        $cta.on('click', '.close', function(event) {
+            event.stopPropagation();
+            createCookie('cta', false, 2);
+            $cta._hide();
+        });
+
+        $cta._hide = function() {
+            $cta.addClass('hidden');
+        };
 
 	// Menu.
 		var $menu = $('#menu');

@@ -1,0 +1,49 @@
+
+.hidden {
+    visibility: hidden;
+}
+
+#cta {
+    right: -9999px;
+    bottom: 0;
+    width: auto;
+    position: fixed;
+    z-index: 9999;
+    -webkit-animation: slide 0.5s forwards;
+    -webkit-animation-delay: 2s;
+    animation: slide 0.5s forwards;
+    animation-delay: 2s;
+    border-radius: 4px;
+    background-color: desaturate(lighten(_palette(bg), 7), 1.5);
+
+    .close {
+        padding: 0;
+        background-image: url('images/close.svg');
+        background-position: 75% 25%;
+        background-repeat: no-repeat;
+        background-size: 2em 2em;
+        border: 0;
+        content: '';
+        display: block;
+        height: 4em;
+        overflow: hidden;
+        position: absolute;
+        right: -1em;
+        text-align: center;
+        text-indent: 4em;
+        top: -1em;
+        width: 4em;
+    }
+
+    .slide-wrapper {
+        padding: 1em 2em 1em 2em;
+    }
+}
+
+@-webkit-keyframes slide {
+    100% { right: 0; }
+}
+
+@keyframes slide {
+    100% { right: 0; }
+}
