@@ -78,7 +78,7 @@
     // CTA
         $cta.on('click', '.close', function(event) {
             event.stopPropagation();
-            createCookie('cta', false, 2);
+            createCookie('cta', false);
             $cta._hide();
         });
 
