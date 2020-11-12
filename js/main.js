@@ -51,7 +51,8 @@
 		$window.on('load', function() {
 
             var c = readCookie('cta');
-            if(c != undefined || c !==  null) {
+            console.log(c);
+            if(c === 'false') {
                 $cta._hide()
             }
 
