@@ -1,7 +1,6 @@
 TODO:
 
- - Tag based blog search
- - Update landing page
+ - Search
  - Add Reading time
  - Add SEO
  
