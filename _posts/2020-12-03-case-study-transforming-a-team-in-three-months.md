@@ -35,7 +35,7 @@ I showed them by leveraging Kanban how to visualize and manage their work, which
 ## Results and Conclusion
 
 - $1.9 million in savings for transformation effort
-- Team assessed higher in every desired capability
+- Team assessed higher (4+) in every desired capability
 - Additional capacity allowed for project work to start
 - No disruptions to existing Service Level Agreements
 - Manager said, “I don’t ever want to go back to the way we worked before.”
