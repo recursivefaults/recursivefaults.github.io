@@ -1,0 +1,8 @@
+---
+layout:  page
+title: Workshops & Training
+---
+{% for workshop in site.workshops %}
+    <h2>{{ workshop.title }}</h2>
+    <p>{{ workshop.content | markdownify }}</p>
+{% endfor %}

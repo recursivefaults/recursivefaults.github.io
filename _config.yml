@@ -12,6 +12,10 @@ url: "https://ryanlatta.com" # the base hostname & protocol for your site
 twitter_username: recursivefaults
 github_username:  recursivefaults
 
+#Collections
+collections:
+  - workshops
+
 plugins:
     - jekyll-feed
     - jekyll-paginate-v2

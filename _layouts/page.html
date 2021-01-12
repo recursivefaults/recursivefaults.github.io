@@ -1,4 +1,20 @@
 ---
-layout: post
+layout: generic
 ---
-{{ content }}
+<header>
+    <div class="inner">
+        <h2>{{page.title}}</h2>
+            
+            <p class="post-meta">
+                {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+            </p>
+    </div>
+</header>
+<div class="wrapper">
+    <div class="inner">
+        <div class="actions">
+        </div>
+
+        {{ content }}
+    </div>
+</div>
