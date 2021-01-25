@@ -2,11 +2,9 @@
 title: Ryan Latta
 email: ryan@ryanlatta.com
 description: > # this means to ignore newlines until "baseurl:"
-    Building software is hard. Actually getting results can seem impossible.
-    I am interested in exploring what it takes to delivering software that
-    has meaningful impact for customers, users, and businesses. I bring lean
-    and agile tools and thinking to groups and teams so they can find a way
-    to continually improve and relentlessly pursue meaningful results.
+  Ryan Latta is a consultant that specalizes in creating high-performing software groups, and coaches
+  developers through their careers. Here you'll find offerings, products, and articles to help you
+  transform your group and your career.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ryanlatta.com" # the base hostname & protocol for your site
 twitter_username: recursivefaults

@@ -1,5 +1,9 @@
 ---
 layout: page
+excerpt: >
+    Ryan Latta offers numerous services for software groups. Offerings range from the exclusive 10x Team Program to
+    facilitating your next important meeting. The listed services also serve as a starting point for a custom-tailored
+    engagement.
 title: Services and Offerings
 ---
 
