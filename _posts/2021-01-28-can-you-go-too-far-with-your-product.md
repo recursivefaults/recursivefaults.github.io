@@ -1,6 +1,6 @@
 ---
 title: Can You Go Too Far With Your Product?
-cover_image:
+cover_image: https://source.unsplash.com/M1nZU61xTK4/900x500
 tags:
 - product management
 - movie
