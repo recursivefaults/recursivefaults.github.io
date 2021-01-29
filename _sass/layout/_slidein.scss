@@ -4,9 +4,12 @@
 }
 
 #cta {
+    width: 35%;
+    @include breakpoint('<=xsmall') {
+        width: 90%;
+    }
     right: -9999px;
     bottom: 0;
-    width: auto;
     position: fixed;
     z-index: 9999;
     -webkit-animation: slide 0.5s forwards;
@@ -36,7 +39,13 @@
     }
 
     .slide-wrapper {
-        padding: 1em 2em 1em 2em;
+        padding: 1em 0em 0em 0em;
+    }
+
+    .cta-text {
+        margin: 0 auto;
+        width: 80%;
+        text-align: center;
     }
 }
 

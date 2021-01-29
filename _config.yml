@@ -47,23 +47,23 @@ defaults:
         path: ""
         type: "page"
       values:
-        cta_text: Join Now!
-        cta_url: https://bost.link/UmkgWn
-        lead_text: Be the first to know about my tips, webinars, and offers
+        cta_text: Sign Up!
+        cta_url: https://sendfox.com/lp/mno2g0
+        lead_text: I wrote a FREE email series describing how I go about building software teams that have up to 10x performance!
     - scope:
         path: ""
         category: "career"
       values:
-        lead_text: "Subscribe and get a free chapter on salary negotiation!"
+        lead_text: Want to know the essentials for starting and growing your career? I wrote a free email series to help.
         cta_text: Join Now!
-        cta_url: https://bost.link/a05rzK
+        cta_url: https://sendfox.com/lp/m7z24v
     - scope:
         path: ""
         category: "consulting"
       values:
-        cta_text: Subscribe!
-        cta_url: https://bost.link/UmkgWn
-        lead_text: Be the first to know about my tips, webinars, and offers
+        cta_text: Sign Up!
+        cta_url: https://sendfox.com/lp/mno2g0
+        lead_text: I wrote a FREE email series describing how I go about building software teams that have up to 10x performance!
 
 pagination:
   enabled: true
