@@ -44,20 +44,6 @@ In six hours, we had a solution. Throughout the process, I informed everyone tha
 
 The band-aid worked, but we never went back to fix the issues. The project ultimately failed.
 
-# 5 Days and 250k in Fines
-
-Another time I was working with a group that wanted to leverage SMS messages to interact with customers. I read the relevant regulations to prepare.
-
-I distilled down the rules for the rest of the team. When configuring the service we used to send messages, I set a quota for how much we could spend. I guessed at how many messages we’d send during testing and set it at that number. I didn’t want buffer. I wanted a clear signal of usage, and a service stopping would do that.
-
-We ran out of quota by the end of the month, and when we looked there were hundreds of messages going all over the world. The team had no idea how it was happening.
-
-I asked the team to provide proof it was us or proof it wasn’t. The team went on with their work, assuming another team or another project was causing the messages.
-
-The quota refreshed at the beginning of the month, I saw a spike of messages and stopped all work.
-
-The team quickly discovered they were sending hundreds of messages worldwide, and the amount in fines they’d have to pay was up to $250k in just five days.
-
 # Who Dropped the Ball?
 
 In each of these stories, there is an obvious theme, but it’s a real question each developer has to consider in their career. What are you going to take personal responsibility for as a professional? In each story, plenty of people decided the issues that arose weren’t their problem. 

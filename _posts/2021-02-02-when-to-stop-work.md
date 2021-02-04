@@ -13,7 +13,7 @@ By the end of the month they had run out of money which prompted an obvious requ
 
 Another interesting detail was that messages were going all over the world, which was a troubling.
 
-After several days of investigation the team uncovered a bug that resulted in all these abnormal messages. The problem was that the bug resulted in illegal messaging all over the world. Fines for each illegal message amounted to a bill of around $250k.
+After several days of investigation the team uncovered a bug that resulted in all these abnormal messages. The problem was that the bug resulted in potentially illegal messaging all over the world. The potential fines reached $250,000.
 
 When the money ran out, I stopped all work until we could understand this.
 
