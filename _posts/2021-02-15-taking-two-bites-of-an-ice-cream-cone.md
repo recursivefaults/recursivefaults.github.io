@@ -5,7 +5,8 @@ tags:
 - testing
 - ice-cream
 - automation
-categories: career, consulting
+category: career, consulting
+cover_image: https://source.unsplash.com/TLD6iCOlyb0/900x500 
 ---
 Often I wind up working with teams and managers who want to know more about how to get started with automated testing or realize their efforts are backfiring. For the last of those cases, it is almost always because they adopted the ice-cream anti-pattern of testing, but I teach two techniques that help them get back on track.
 
