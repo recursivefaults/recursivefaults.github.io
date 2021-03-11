@@ -8,6 +8,7 @@ permalink: /consulting/articles/
 cta_text: Sign Up!
 cta_url: https://sendfox.com/lp/mno2g0
 lead_text: I wrote a FREE email series describing how I go about building software teams that have up to 10x performance!
+sitemap: false
 pagination:
   enabled: true
   category: consulting

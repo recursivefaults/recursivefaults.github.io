@@ -17,6 +17,7 @@ collections:
 plugins:
     - jekyll-feed
     - jekyll-paginate-v2
+    - jekyll-sitemap
 
 feed:
     tags:
@@ -36,6 +37,11 @@ sass:
 permalink: /:year/:month/:title.html
 
 defaults:
+    -
+      scope:
+        path: "content/**"
+      values:
+        sitemap: false
     -
       scope:
         path: "" # an empty string here means all files in the project

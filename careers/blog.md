@@ -8,6 +8,7 @@ lead_text: Want to know the essentials for starting and growing your career? I w
 cta_text: Join Now!
 cta_url: https://sendfox.com/lp/m7z24v
 permalink: /careers/articles/
+sitemap: false
 pagination:
   enabled: true
   category: career

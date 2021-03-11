@@ -7,4 +7,5 @@ excerpt: >
     agile & lean ideas, careers, product management, money, and everything else.
 pagination:
   enabled: true
+sitemap: false
 ---
