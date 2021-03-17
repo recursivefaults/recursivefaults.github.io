@@ -1,6 +1,6 @@
 ---
 title: Learning Under Pressure
-excerpt: It is a matter of time before you have a new project with new tools, languages, and technology. How do you learn quickly while delivering? This article explains one free technique available to all development teams.
+excerpt: New project with new technology? This article using test-driven development (TDD) to learn and deliver under pressure.
 cover_image: https://source.unsplash.com/-2vD8lIhdnw/900x500
 tags:
 - tdd
