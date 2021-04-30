@@ -9,6 +9,9 @@ layout: generic
 </header>
 <div class="wrapper">
     <div class="inner">
+        <div class="actions">
+            {% include sendfox-form.html %}
+        </div>
         <section class="features">
             {% for post in paginator.posts %}
             {% include article-snippit.html %}

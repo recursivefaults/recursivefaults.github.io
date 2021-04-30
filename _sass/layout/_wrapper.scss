@@ -111,11 +111,14 @@
 		position: relative;
 		@include wrapper-edges-color(_palette(bg));
 
+
         .actions {
             border-bottom: solid 2px _palette(border);
             margin-bottom: _size(element-margin) * 0.4;
             padding-bottom: _size(element-margin) * 0.2;
         }
+        
+
 
 		&:before, &:after {
 			background-repeat: no-repeat;
