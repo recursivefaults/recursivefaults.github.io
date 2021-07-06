@@ -1,6 +1,7 @@
 #sales {
     color: #212121;
     $gutter: _size(gutter) * 2;
+    padding: 0 $gutter;
     @include breakpoint('<=small') {
         $gutter: _size(gutter) * 0.5;
 
