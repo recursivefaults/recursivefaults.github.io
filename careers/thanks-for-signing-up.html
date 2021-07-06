@@ -2,14 +2,12 @@
 layout: default
 ---
 <header>
-    <div class="inner">
-        <h2>Thanks For Joining!</h2>
-        <p>I'll be sending you emails to welcome you and sharing all my best content and advice!</p>
-    </div>
+    <h1>Thanks For Joining!</h1>
+    <p>I'll be sending you emails to welcome you and sharing all my best content and advice!</p>
 </header>
 <div class="wrapper">
     <div class="inner">
-        <h3>You might also enjoy these</h3>
+        <h2>You might also enjoy these</h2>
         <section class="features">
             {% for post in site.categories.career limit: 4 %}
             {% include article-snippit.html %}

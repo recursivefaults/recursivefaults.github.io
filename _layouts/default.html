@@ -3,24 +3,26 @@
 
   {% include head.html %}
 
-  <body class="is-preload">
-      <div id="page-wrapper">
+  <body>
+      <div id="wrapper">
 
           {% include header.html %}
 
-          {% include menu.html %}
-          <section id="wrapper">
-              {{content}}
-          </section>
+          <div id="main">
+              <div class="inner">
+                  {{content}}
+              </div>
+          </div>
 
 
-          <section id="footer">
+          <footer id="footer">
               {% include contact.html %}
-          </section>
-              {% include footer.html %}
+          </footer>
+          {% include footer.html %}
       </div>
 
     {% include scripts.html %}
+    {% include menu.html %}
   </body>
 
 </html>

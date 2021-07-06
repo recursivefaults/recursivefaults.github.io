@@ -10,8 +10,6 @@ cta_url: https://sendfox.com/lp/mno2g0
 lead_text: I wrote a FREE email series describing how I go about building software teams that have up to 10x performance!
 ---
 
-# Services
-
 My mission is to create teams that change the world.
 
 I’ve acquired and honed a lot of unique skills, knowledge, and experience in the pursuit of my mission, and that means I have a lot to offer your group as well.
