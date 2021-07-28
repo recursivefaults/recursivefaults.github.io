@@ -3,7 +3,7 @@ title: Behind the Scenes of a Technical Interview
 category: career
 tags: technical interview, interview
 cover_image: https://source.unsplash.com/udXD2NrbXS8/900x500
-excerpt: Technical interviews are brutal, but in this article, I explore two reasons why: Interviewers don’t know how to answer their own questions, and they’re full of bias.
+excerpt: Technical interviews are brutal, but in this article, I explore two reasons why. Interviewers don’t know how to answer their own questions, and they’re full of bias.
 ---
 I work with people in all stages of their careers, and it winds up that most people don’t give a lot of thought as to how the technical interviews they experience come to be. So I wanted to share a few things that I’ve observed over the years that help inform various tactics everyone can employ.
 
