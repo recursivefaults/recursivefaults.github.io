@@ -3,8 +3,18 @@ layout:  page
 title: Podcasts
 ---
 
-{% for podcast in site.podcasts %}
-    <h2>{{ podcast.title }}</h2>
-    <p>{{ podcast.description }}</p>
-    <p>{{ podcast.content | markdownify }}</p>
-{% endfor %}
+<section id="podcasts" class="tiles">
+    {% for podcast in site.podcasts %}
+    <article class="style{{forloop.index | modulo: 6 }}">
+        <span class="image">
+            <img src="https://source.unsplash.com/dKeB0-M9iiA/462x462">
+        </span>
+        <a href="{{podcast.embed_url}}">
+            <h2>{{podcast.title}}</h2>
+            <div class="content">
+                {{podcast.description}}
+            </div>
+        </a>
+    </article>
+    {% endfor %}
+</section>

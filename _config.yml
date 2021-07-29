@@ -13,6 +13,8 @@ github_username:  recursivefaults
 #Collections
 collections:
   - workshops
+  - talks
+  - podcasts
 
 plugins:
     - jekyll-feed
