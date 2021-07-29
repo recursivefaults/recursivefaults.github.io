@@ -2,3 +2,9 @@
 layout:  page
 title: Podcasts
 ---
+
+{% for podcast in site.podcasts %}
+    <h2>{{ podcast.title }}</h2>
+    <p>{{ podcast.description }}</p>
+    <p>{{ podcast.content | markdownify }}</p>
+{% endfor %}

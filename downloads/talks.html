@@ -2,3 +2,9 @@
 layout:  page
 title: Talks
 ---
+
+{% for talk in site.talks %}
+    <h2>{{ talk.title }}</h2>
+    <p>{{ talk.description }}</p>
+    <p>{{ talk.content | markdownify }}</p>
+{% endfor %}
