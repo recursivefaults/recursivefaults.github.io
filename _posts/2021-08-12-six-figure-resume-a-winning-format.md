@@ -1,9 +1,9 @@
 ---
-title: “Six-Figure Resume: A Winning Format”
+title: "Six-Figure Resume: A Winning Format"
 tags: resume, portfolio, job
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: Six-Figure Resume
+series: "Six-Figure Resume"
 ---
 Now that we’ve covered the value of resumes and common mistakes that will prevent any resume from succeeding, its time to talk about the core elements your resume needs.
 

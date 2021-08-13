@@ -1,9 +1,9 @@
 ---
-title: “Six-Figure Resume: Putting Your Resume To Work”
+title: "Six-Figure Resume: Putting Your Resume To Work"
 tags: resume, portfolio, job
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: Six-Figure Resume
+series: "Six-Figure Resume"
 ---
 In this last article in my Six-Figure Resume, I want to put all the pieces together into a process that allows you to refine your resume and improve your interviewing rates.
 

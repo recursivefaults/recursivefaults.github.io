@@ -1,9 +1,9 @@
 ---
-title: “Six-Figure Resume: Avoiding Costly Mistakes”
+title: "Six-Figure Resume: Avoiding Costly Mistakes"
 tags: resume, portfolio, job
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: Six-Figure Resume
+series: "Six-Figure Resume"
 ---
 
 In this next article in my Six-Figure Resume series, I want to cover some myths and mistakes people make in crafting their resumes that hurt your chances or guarantee that you’ll get disqualified from a job early.

@@ -1,9 +1,9 @@
 ---
-title: “Six-Figure Resume: Resumes Outperform Portfolios”
+title: "Six-Figure Resume: Resumes Outperform Portfolios"
 tags: resume, portfolio, job
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: Six-Figure Resume
+series: "Six-Figure Resume"
 ---
 I was talking with my first-ever career client, and I asked them what still stands out to them after the two or so years since they got their first job. They said, “Just how important my resume is. It’s a six-figure piece of paper.”
 

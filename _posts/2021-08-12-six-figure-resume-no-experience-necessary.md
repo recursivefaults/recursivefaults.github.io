@@ -1,9 +1,9 @@
 ---
-title: “Six-Figure Resume: No Experience Necessary”
+title: "Six-Figure Resume: No Experience Necessary"
 tags: resume, portfolio, job
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: Six-Figure Resume
+series: "Six-Figure Resume"
 ---
 
 Time to address one of the most common questions I get from my clients, “What if I don’t have development experience?”
