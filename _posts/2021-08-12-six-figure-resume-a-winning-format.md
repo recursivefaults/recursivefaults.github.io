@@ -5,7 +5,7 @@ category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
 series: "Six-Figure Resume"
 ---
-Now that we’ve covered the value of resumes and common mistakes that will prevent any resume from succeeding, its time to talk about the core elements your resume needs.
+Now that we’ve [covered the value]({% post_url 2021-08-12-six-figure-resume-resumes-outperform-porftolios %}) of resumes and [common mistakes]({% post_url 2021-08-12-six-figure-resume-avoiding-costly-mistakes %}) that will prevent any resume from succeeding, its time to talk about the core elements your resume needs.
 
 ## Simple and Clean Formats Win
 
