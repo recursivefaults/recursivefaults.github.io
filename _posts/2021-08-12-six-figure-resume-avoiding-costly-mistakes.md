@@ -1,18 +1,18 @@
 ---
-title: "Six-Figure Resume: Avoiding Costly Mistakes"
+title: “Six-Figure Resume: Avoid These Resume Mistakes That Are Keeping You From Getting Interviewed”
 tags: resume, portfolio, job
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: "Six-Figure Resume"
+series: Six-Figure Resume
 ---
 
 In this next article in my Six-Figure Resume series, I want to cover some myths and mistakes people make in crafting their resumes that hurt your chances or guarantee that you’ll get disqualified from a job early.
 
-## The One-Page Resume Myth
+## The One-Page Resume Is a Dangerous Myth
 
 Starting off, you’ll find advice everywhere saying to fit your resume into one page. I’ve surveyed and interviewed hundreds of managers over the years, and here’s the bottom line.
 
-Multiple pages in your resume will not hurt your chances.
+**Multiple pages in your resume will not hurt your chances.**
 
 The trick is that because managers read in sixty seconds, that first page makes the biggest impact, and the others build on it.
 
@@ -20,7 +20,7 @@ So you can think of it as a great first page earns reading the second and so on.
 
 I’ve seen resumes that are fourteen pages long, and no, they didn’t all get read because we all knew what we needed in sixty seconds. Simultaneously, even with no previous development experience, my clients and I started with 2-3 page resumes and get interviews almost every time.
 
-## No Skill Ratings
+## Stop Using Skill Ratings
 
 Kind of hand-in-hand with a lot of one-page templates, there are ratings for technical skills. This is something you don’t want to do either.
 
@@ -28,7 +28,7 @@ Let’s say you rate your skills on a scale of 1-5, and you’re still in the fi
 
 On the other hand, if you rate yourself on a four or five, someone may show up with a decade of experience and interview you as though you’re the expert that you claimed.
 
-In other words, those skill ratings only work against you, and since your rating doesn’t match how your interview views those same ratings, it’s a recipe for disaster.
+In other words, those **skill ratings only work against you**, and since your rating doesn’t match how your interview views those same ratings, it’s a recipe for disaster.
 
 ##  Typos, Grammar, and Spelling
 
@@ -36,9 +36,17 @@ It may seem silly, but mistakes like these stand out like a sore thumb when some
 
 So make sure you get these things right because you’ll wind up in the trash if you have these mistakes.
 
+Things you’ll want to check:
+
+* Consistent punctuation
+* Make all the formatting even and consistent
+* Don’t write run-on sentences
+* If you Bold or Italicize do it consistently
+* Spelling, especially in your technology & keywords
+
 A little tip for spelling since we use a lot of proper nouns for our technology is to lowercase all of them to allow spell-checkers to catch mistakes in their spelling before you uppercase it again.
 
-## Names and Location
+## Even Your Name and Location Can Cause Problems
 
 You’d be amazed at how many resumes show up on manager’s desks with different names on the various pages. While this mostly happens with recruiters and consultancies, if you’ve downloaded a template, triple-check this.
 
