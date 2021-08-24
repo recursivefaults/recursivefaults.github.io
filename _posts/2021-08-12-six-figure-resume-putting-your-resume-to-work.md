@@ -1,9 +1,9 @@
 ---
-title: "Six-Figure Resume: Putting Your Resume To Work"
+title: “Six-Figure Resume: How To Put Your Resume To Work And Get Interviewed and Promoted”
 tags: resume, portfolio, job
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: "Six-Figure Resume"
+series: Six-Figure Resume
 ---
 In this last article in my Six-Figure Resume, I want to put all the pieces together into a process that allows you to refine your resume and improve your interviewing rates.
 
@@ -21,7 +21,7 @@ In other words, your resume can pull double-duty.
 
 When you apply to a job, take the opportunity to make changes to your resume before you apply. While this sounds like another chore in an already soul-crushing process, there’s a lot of benefit to it.
 
-First, you can, by simply re-ordering your technical skills, make it easier for a hiring manager to see you’re a fit by putting the skills in the description first on your resume.
+First, re-order your technical skills. Make it easier for a hiring manager to see you’re a fit by putting the skills from the job post first on your resume.
 
 Second, by looking at your resume with the question in your mind, “How can I make this even stronger,” you can find opportunities everywhere to make a minor tweak to catch someone’s eye.
 

@@ -1,18 +1,16 @@
 ---
-title: "Six-Figure Resume: No Experience Necessary"
+title: “Six-Figure Resume: Building a Resume With No Dev Experience? No Problem!”
 tags: resume, portfolio, job
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: "Six-Figure Resume"
+series: Six-Figure Resume
 ---
 
 Time to address one of the most common questions I get from my clients, “What if I don’t have development experience?”
 
-Great!
-
 ## We All Start There
 
-We all got jobs without prior development experience, which means you can too. The trick is knowing how to leverage your past to get there.
+We all got jobs without prior development experience, which means you can too. The trick is knowing how to leverage your past.
 
 Sadly, job postings scare people away from applying since they want two years of experience and 85 required skills.
 
@@ -53,7 +51,7 @@ We’re naturally curious about what other people have been through, and when yo
 
 The trick is to tell your stories and make it clear how what you learned prepared you for today.
 
-I used to close my stories about ocean rescue with something like, “So I’m comfortable with high-stress situations.” That line would show up because, at some point, we’d talk about projects and deadlines and stressful or difficult situations. Well, a story about drowning people pretty much puts an end to the concern about that.
+I used to close my stories about ocean rescue with something like, “So I’m comfortable with high-stress situations.” That line would show up because, at some point, we’d talk about projects and deadlines and stressful or difficult situations. Well, a story about life-and-death pretty much puts an end to the concern about that.
 
 ## Bring The Attributes and Stories Together
 
