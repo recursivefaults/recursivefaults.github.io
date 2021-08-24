@@ -1,9 +1,8 @@
 ---
-title: “Six-Figure Resume: Hey Devs! Your Portfolio Won’t Get You a Job, But Your Resume Will!”
-tags: resume, portfolio, job
+title: "Six-Figure Resume: Hey Devs! Your Portfolio Won’t Get You a Job, But Your Resume Will!"
+tags: resume, portfolio, job, six-figure-resume
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: Six-Figure Resume
 ---
 “It’s a six-figure piece of paper,” is what one of my clients said about their resume not too long ago. They started their career from scratch within the past three years and never used a portfolio to get their jobs.
 

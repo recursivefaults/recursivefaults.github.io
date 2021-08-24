@@ -1,9 +1,8 @@
 ---
-title: “Six-Figure Resume: Building a Resume With No Dev Experience? No Problem!”
-tags: resume, portfolio, job
+title: "Six-Figure Resume: Building a Resume With No Dev Experience? No Problem!"
+tags: resume, portfolio, job, six-figure-resume
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: Six-Figure Resume
 ---
 
 Time to address one of the most common questions I get from my clients, “What if I don’t have development experience?”
