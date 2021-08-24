@@ -1,13 +1,13 @@
 ---
-title: "Six-Figure Resume: Resumes Outperform Portfolios"
+title: “Six-Figure Resume: Hey Devs! Your Portfolio Won’t Get You a Job, But Your Resume Will!”
 tags: resume, portfolio, job
 category: career
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
-series: "Six-Figure Resume"
+series: Six-Figure Resume
 ---
-I was talking with my first-ever career client, and I asked them what still stands out to them after the two or so years since they got their first job. They said, “Just how important my resume is. It’s a six-figure piece of paper.”
+“It’s a six-figure piece of paper,” is what one of my clients said about their resume not too long ago. They started their career from scratch within the past three years and never used a portfolio to get their jobs.
 
-Sadly, this is an epiphany very few people have in their careers, and their job search remains a struggle. So In this article, I want to break down why resumes are still vital to a successful job search.
+If you’re ready to get back weeks or months of struggle building a portfolio, this article is for you. It’s time to master your resume.
 
 ## They Are the First Thing People See
 
