@@ -1,7 +1,7 @@
 ---
 title: How to Introduce an Activity as a Facilitator
 tags: facilitation, activity
-cover_image:https://source.unsplash.com/1400x900
+cover_image: https://source.unsplash.com/1400x900
 ---
 At some point in one’s career in tech, you’ll wind up leading a meeting and need people to take part in some facilitation activity. That might be a retrospective or an activity where you hold a vote. If you’ve ever felt awkward introducing the activity, here’s a step-by-step way to do it next time.
 
