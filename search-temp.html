@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<script type="text/javascript">
+    at3_widget_where='same'; // Where to open results - can be 'new' or 'same' for new window or not
+    at3_widget_args = {};
+    
+    at3_widget_args['affid'] = 'advwidg'; // Affiliate ID - do not change
+    at3_widget_args['loadPrev'] = '1'; // Whether to preload search form with user's last search, if any - default 0
+    
+    // You have the option to preload any of the form values.  Note that if loadPrev is set to 1 above and the user has already performed a search, it will override these values.
+    at3_widget_args['radius']='300';
+    at3_widget_args['zip']='';
+    at3_widget_args['minyear']='';
+    at3_widget_args['maxyear']='';
+    
+    // To preload a make or model, take the name as it appears in the dropdown, remove any non-alphanumeric characters (including spaces), and make it all lower-case.
+    // For example, Ferrari GT 2+2 would be make='ferrari', model='gt22'.
+    // To preload a make/model that doesn't exist in the dropdowns, add it to the make_kw / model_kw line(s) as you'd normally type it.
+    
+    at3_widget_args['make']='toyota';
+    at3_widget_args['make_kw']='';
+    at3_widget_args['model']='';
+    at3_widget_args['model_kw']='';
+    
+    at3_widget_args['version'] = '1.1';
+    at3_widget_args['maxWidth'] = '470px'; // Maximum width - set to any valid CSS width (e.g. '100%', '30em' etc.)
+    at3_widget_args['optionsButton'] = '1'; // Whether to show the more options button - default 1
+    at3_widget_args['keywords']='';
+    at3_widget_args['trim_kw']='';
+    at3_widget_args['minprice']='';
+    at3_widget_args['maxprice']='';
+    at3_widget_args['minmiles']='';
+    at3_widget_args['maxmiles']='';
+    at3_widget_args['bodystyle']='any'; // Valid values are 'any', 'convertible', 'coupe', 'hatchback', 'minivan', 'sedan', 'suv', 'truck', 'van', 'wagon'. The default is 'any'. 
+    at3_widget_args['transmission']='any'; // Valid values are 'any', 'auto', and 'man'. The default is 'any'.
+    at3_widget_args['saleby']='private'; // Valid values are 'any', 'dealer', and 'private'. The default is 'any'.
+    
+    
+    </script>
