@@ -53,7 +53,7 @@ defaults:
         category: "consulting" 
     - scope:
         path: ""
-        type: "page"
+        type: "pages"
       values:
         cta_text: Sign Up!
         cta_url: https://sendfox.com/lp/mno2g0
