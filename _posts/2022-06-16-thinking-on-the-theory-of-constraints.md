@@ -1,7 +1,7 @@
 ---
 title: Thinking on Theory of Constraints
 tags: process, improvement, theory of constraints
-cover_image: https://sources.unsplash.com/Fd6osyVbtG4/1400x900
+cover_image: https://source.unsplash.com/Fd6osyVbtG4/1400x900
 description: Most people have read The Phoenix Project, but  not many understand the Theory of Constraints it talks about. I want to tell you how to get started and a few tips to help your transformation.
 ---
 About a decade ago, a book called The Phoenix Project swept through the IT community. It is an incredibly relatable bit of fiction about a software shop that ultimately redeems itself.
