@@ -1,6 +1,6 @@
 ---
 title: Example of Horizon Planning
-cover_image: https://source.unsplash.com/NVHPka9Rk/1400x900
+cover_image: https://source.unsplash.com/g1TWbj5XYb4/1400x900
 description: Most plans have a cliff where the plan stops and the unknown begins. I approach this problem by creating planning horizons, and this article has an example of them.
 tags:
   - product
