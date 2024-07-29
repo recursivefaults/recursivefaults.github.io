@@ -181,5 +181,35 @@
 						$menu._hide();
 
 			});
+    // Image loading
+    var oldImage = document.querySelector('img[data-unsplash-id]');
+    if(oldImage != null) {
+        var imageId = oldImage.getAttribute('data-unsplash-id');
+        if (imageId.length == 0) {
+            return
+        }
+        var splits = imageId.split('/');
+        if(splits.length > 3) {
+            imageId = splits[3]
+        } else {
+            imageId = splits[0];
+        }
+        fetch("https://api.unsplash.com/photos/"+imageId+"?client_id=npTDbSF7scIiJiCKVoxBfkfdAaZQnCQVOSg3KHrKZsg")
+            .then((response) => {
+                if(response.ok) {
+                    return response.json();
+                }
+            })
+            .then((json) => {
+                console.log(json.urls.raw);
+                var newImage = document.createElement('img');
+                newImage.setAttribute('src', json.urls.raw);
+                oldImage.parentNode.insertBefore(newImage, oldImage);
+                oldImage.parentNode.removeChild(oldImage);
+            });
+    }
+
+
+
 
 })(jQuery);
