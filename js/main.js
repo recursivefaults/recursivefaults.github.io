@@ -183,17 +183,10 @@
 			});
     // Image loading
     var oldImage = document.querySelector('img[data-unsplash-id]');
-    if(oldImage != null) {
-        var imageId = oldImage.getAttribute('data-unsplash-id');
-        if (imageId.length == 0) {
-            return
-        }
-        var splits = imageId.split('/');
-        if(splits.length > 3) {
-            imageId = splits[3]
-        } else {
-            imageId = splits[0];
-        }
+    var meta = document.querySelector('meta[property="og:image"]');
+    var imageJson = null;
+    if(meta != null) {
+        var imageId = splitImageUrl(meta.getAttribute('content'));
         fetch("https://api.unsplash.com/photos/"+imageId+"?client_id=npTDbSF7scIiJiCKVoxBfkfdAaZQnCQVOSg3KHrKZsg")
             .then((response) => {
                 if(response.ok) {
@@ -201,13 +194,35 @@
                 }
             })
             .then((json) => {
-                console.log(json.urls.raw);
-                var newImage = document.createElement('img');
-                newImage.setAttribute('src', json.urls.raw);
-                oldImage.parentNode.insertBefore(newImage, oldImage);
-                oldImage.parentNode.removeChild(oldImage);
+                imageJson = json
+                console.log(imageJson);
+                var newMeta = document.createElement('meta');
+                newMeta.setAttribute('property', 'og:image');
+                newMeta.setAttribute('content', imageJson.urls.small);
+                meta.parentNode.insertBefore(newMeta, meta);
+                meta.parentNode.removeChild(meta);
+
+                if(oldImage !=null) {
+                    var newImage = document.createElement('img');
+                    newImage.setAttribute('src', imageJson.urls.raw);
+                    oldImage.parentNode.insertBefore(newImage, oldImage);
+                    oldImage.parentNode.removeChild(oldImage);
+                }
             });
     }
+
+    function splitImageUrl(url) {
+        var imageId = oldImage.getAttribute('data-unsplash-id');
+        if (imageId.length == 0) {
+            return null
+        }
+        var splits = imageId.split('/');
+        if(splits.length > 3) {
+            return splits[3]
+        } else {
+            return splits[0];
+        }
+    };
 
 
 
