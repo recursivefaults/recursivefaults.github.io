@@ -183,10 +183,9 @@
 			});
     // Image loading
     var oldImage = document.querySelector('img[data-unsplash-id]');
-    var meta = document.querySelector('meta[property="og:image"]');
     var imageJson = null;
-    if(meta != null) {
-        var imageId = splitImageUrl(meta.getAttribute('content'));
+    if(oldImage != null) {
+        var imageId = splitImageUrl(oldImage.getAttribute('data-unsplash-id'));
         fetch("https://api.unsplash.com/photos/"+imageId+"?client_id=npTDbSF7scIiJiCKVoxBfkfdAaZQnCQVOSg3KHrKZsg")
             .then((response) => {
                 if(response.ok) {
@@ -195,19 +194,10 @@
             })
             .then((json) => {
                 imageJson = json
-                console.log(imageJson);
-                var newMeta = document.createElement('meta');
-                newMeta.setAttribute('property', 'og:image');
-                newMeta.setAttribute('content', imageJson.urls.small);
-                meta.parentNode.insertBefore(newMeta, meta);
-                meta.parentNode.removeChild(meta);
-
-                if(oldImage !=null) {
-                    var newImage = document.createElement('img');
-                    newImage.setAttribute('src', imageJson.urls.raw);
-                    oldImage.parentNode.insertBefore(newImage, oldImage);
-                    oldImage.parentNode.removeChild(oldImage);
-                }
+                var newImage = document.createElement('img');
+                newImage.setAttribute('src', imageJson.urls.raw);
+                oldImage.parentNode.insertBefore(newImage, oldImage);
+                oldImage.parentNode.removeChild(oldImage);
             });
     }
 
