@@ -1,5 +1,6 @@
 ---
 title: Worst Job in My Career 3 - The Second Project
+category: archives
 tags:
     - story
     - series

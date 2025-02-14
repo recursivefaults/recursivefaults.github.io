@@ -5,7 +5,6 @@ tags:
 - pull request
 - code review
 - quality
-categories: consulting, career
 cover_image: https://source.unsplash.com/s9CC2SKySJM/900x500
 excerpt: Code reviews are one of the most common practices in software development, but there is a better way. I share the good and bad aspects of code reviews and a better way to do them.
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Excellence By Proxy'
 layout: post
-category:
+category: archives
 tags:
     - software
     - management

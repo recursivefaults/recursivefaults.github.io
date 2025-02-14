@@ -1,9 +1,6 @@
 ---
 title: Taking a Stance
 cover_image: https://source.unsplash.com/oGLg-x4Va0M/900x500
-category:
-- career
-- consulting
 tags:
 - personal
 - growth

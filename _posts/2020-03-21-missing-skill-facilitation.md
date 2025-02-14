@@ -1,8 +1,5 @@
 ---
 title: "Missing Skill: Facilitation"
-category: 
-- career
-- consulting
 tags:
 - newsletter
 - facilitation

@@ -1,7 +1,7 @@
 ---
 title: Project Manager -> Product Owner
 layout: post
-category:
+category: product-management
 tags:
     - project manager
     - product owner

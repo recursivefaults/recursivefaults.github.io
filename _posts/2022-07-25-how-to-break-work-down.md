@@ -1,6 +1,7 @@
 ---
 title: How To Break Work Down
 tags: work, project, product
+category: product-management
 cover_image: https://source.unsplash.com/-K6JMRMj4x4/1400x900
 description: Breaking work down correctly can be the difference of taking 2-3x longer or not. This article explains how to break work down correctly for iteration and de-risking things compared to the wrong way that everyone does.
 ---

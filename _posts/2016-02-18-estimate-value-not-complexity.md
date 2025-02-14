@@ -1,7 +1,7 @@
 ---
 title: "Estimate Value Not Complexity"
 layout: post
-category:
+category: product-management
 tags:
     - agile
     - scrum

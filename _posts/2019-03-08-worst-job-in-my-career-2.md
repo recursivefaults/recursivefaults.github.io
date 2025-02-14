@@ -1,5 +1,6 @@
 ---
 title: Worst Job in My Career 2 -  The First 8 Months
+category: archives
 tags:
     - story
     - series

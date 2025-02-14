@@ -13,5 +13,5 @@ permalink: /product-management/articles/
 sitemap: false
 pagination:
   enabled: true
-  category: product
+  category: product-management
 ---

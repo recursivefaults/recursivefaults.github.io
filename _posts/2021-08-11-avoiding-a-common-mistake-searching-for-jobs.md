@@ -1,7 +1,7 @@
 ---
 title: Avoiding a Common Mistake Searching for Jobs
 tags: job search
-category: careers
+category: career
 excerpt: Folks looking for their tech jobs make a common mistake when they look for openings. They fail to recognize how titles really work and how to find opportunities they’d miss. This article explains how to find those other jobs.
 cover_image: https://source.unsplash.com/BjcGdM-mjL0/900x500
 ---

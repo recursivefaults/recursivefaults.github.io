@@ -4,7 +4,7 @@ tags:
 - scope
 - agile
 - impact map
-category: consulting
+category: product-management
 cover_image: https://source.unsplash.com/fteR0e2BzKo/900x500
 ---
 When an idea for a new project gains steam and people gather to decide what exactly it is to do, there are many options to choose from to help with initial scoping. One technique I use quite regularly is known as [Impact Mapping](https://www.impactmapping.org).

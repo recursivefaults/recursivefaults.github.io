@@ -1,7 +1,7 @@
 ---
 title: "Working in Public: Experiment in Failed Marketing"
 tags: marketing, experiment, product
-category: careers, consulting
+category: archives
 cover_image: https://source.unsplash.com/JeInkKlI2Po/1400x900
 ---
 Tomorrow I’ll formally close on an experiment that I’m willing to call a failure a bit early. Why share all of this? Trying, looking at the results honestly, and moving on is a crucial aspect of building any product.

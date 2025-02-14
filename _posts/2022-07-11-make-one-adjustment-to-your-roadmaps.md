@@ -1,6 +1,7 @@
 ---
 title: Make One Small Adjustment to Your Roadmaps
 tags: roadmap, product, product management
+category: product-management
 cover_image: https://source.unsplash.com/FoKO4DpXamQ/1400x900
 description: Most roadmaps are just a pile of features and dates, but if you add the outcomes you’re expecting along the way you can have better conversations about alternatives and direction.
 ---

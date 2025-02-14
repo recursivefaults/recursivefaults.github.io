@@ -3,7 +3,6 @@ title: Tell Me About Yourself
 alt_titles:
 - What Do You Stand For
 - Creating Excellence For Yourself
-category: consulting, career
 tags:
 - principles
 - personal development

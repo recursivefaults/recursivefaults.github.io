@@ -1,5 +1,6 @@
 ---
 title: Write a Resume that Doesn’t Suck
+category: career
 tags:
 - development
 - career

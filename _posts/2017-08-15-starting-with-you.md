@@ -1,6 +1,7 @@
 ---
 title: Starting With You
 layout: post
+category: archives
 tags:
     - agile
     - agile coaching

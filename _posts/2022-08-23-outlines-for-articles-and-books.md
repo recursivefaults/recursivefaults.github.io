@@ -1,6 +1,7 @@
 ---
 title: Outlines for Article Series or a Book
 tags: book, outline, articles
+category: archives
 cover_image: https://source.unsplash.com/sfL_QOnmy00/1400x900
 ---
 As I promised in my newsletter (Which you should be reading) I offered thoughts around two books or at least an article series on two topics. What comes next are the core questions I want to answer in each one. 

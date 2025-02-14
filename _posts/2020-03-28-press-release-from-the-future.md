@@ -1,8 +1,6 @@
 ---
 title: A Press Release From the Future
-category:
-- career
-- consulting
+category: archives
 tags:
 - newsletter
 - exercise

@@ -5,9 +5,6 @@ alt_titles:
 - Accelerate Your Craft By Pairing
 - Powering-Up People With Pairing
 cover_image: https://source.unsplash.com/DrUguS1oBGU/900x500
-category:
-- career
-- consulting
 tags:
 - technical
 - practice

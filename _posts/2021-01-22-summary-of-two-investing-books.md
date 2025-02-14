@@ -2,7 +2,7 @@
 title: A Brief Summary of Two Investing Books
 description: The stock market is insanely confusing but it's where we wind up putting our retirement and maybe even make money, but after reading Common Sense Investing and the Elements of Investing, what are the big messages?
 tags: money, investing, retirement
-category: career
+category: archives
 cover_image: https://source.unsplash.com/MFms-wkv3Ow/900x500
 ---
 

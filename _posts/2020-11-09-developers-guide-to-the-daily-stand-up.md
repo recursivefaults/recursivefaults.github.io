@@ -1,6 +1,5 @@
 ---
 title: A Developer’s Guide To a Stand-Up That Doesn’t Suck
-category: consulting, career
 tags:
 - agile
 - stand-up

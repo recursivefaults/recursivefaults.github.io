@@ -1,6 +1,7 @@
 ---
 title: The Quick and the Dead of Prioritization
 cover_image: https://source.unsplash.com/LSu04HMpL7A/1400x900
+category: product-management
 description: There are so many ways of prioritizing product work ranging from subjective to quantitative. Almost none justify themselves with results. In this post I will share how I prioritize product work with clients by using four simple categories of core, quality of life, retention, and other.
 tags:
   - product

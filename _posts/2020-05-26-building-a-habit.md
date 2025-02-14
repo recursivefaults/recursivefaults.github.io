@@ -2,9 +2,7 @@
 title: Building a Habit
 alt_title:
 cover_image: https://source.unsplash.com/A5Gbm9Xd3X4/900x500
-category:
-- consulting
-- career
+category: archives
 tags:
 - habit
 - practice

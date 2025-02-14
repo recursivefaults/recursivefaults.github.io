@@ -1,6 +1,7 @@
 ---
 title: Why I Killed Two Products
 tags: product, product management, software
+category: product-management
 cover_image: https://source.unsplash.com/zBOq32xEsLY/1400x900
 description: There are lots of reasons to kill a product. It may not have enough ROI or it may find itself in sketchy territory legally. I want to share some examples of these and when I’ve killed products.
 ---

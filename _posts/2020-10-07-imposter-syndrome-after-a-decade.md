@@ -1,9 +1,6 @@
 ---
 title: Imposter Syndrome After a Decade
 cover_image: https://source.unsplash.com/VZILDYoqn_U/900x500
-category:
-- career
-- consulting
 tags: 
 - career
 - class

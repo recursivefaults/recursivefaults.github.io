@@ -1,7 +1,7 @@
 ---
 title: Don't Start Work, Start Teams
 layout: post
-category:
+category: archives
 published: false
 tags:
     - facilitation

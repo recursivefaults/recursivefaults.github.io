@@ -1,7 +1,7 @@
 ---
 title: "Fishing and Iterations"
 layout: post
-category:
+category: archives
 tags:
     - agile
     - iterations

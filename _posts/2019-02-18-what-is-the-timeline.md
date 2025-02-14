@@ -1,6 +1,7 @@
 ---
 title: What is the Project Timeline
 layout: post
+category: product-management
 tags:
     - management
     - project

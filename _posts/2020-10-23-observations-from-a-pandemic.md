@@ -1,6 +1,6 @@
 ---
 title: Observations from a Pandemic
-category: consulting
+category: archives
 cover_image: https://source.unsplash.com/yAXbfq1wI7I/900x500
 tags:
 - change

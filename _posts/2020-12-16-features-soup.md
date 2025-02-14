@@ -1,6 +1,7 @@
 ---
 title: Feature Soup
 cover_image: https://source.unsplash.com/7cPVUSEppWU/900x500
+category: product-management
 tags:
 - product owner
 - product manager

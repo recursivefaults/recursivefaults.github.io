@@ -1,6 +1,7 @@
 ---
 title: 26 Truisms I’ve Learned as a Coach
 tags: coach, sayings
+category: archives
 cover_image: https://source.unsplash.com/-1_RZL8BGBM/1400x900
 description: Everyone loves a pithy way to remember something. As someone who coaches leaders, developers, and whole organizations I wrote down 26 of the ones that I use in my work.
 ---

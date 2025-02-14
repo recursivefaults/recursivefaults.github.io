@@ -1,6 +1,7 @@
 ---
 title: "Book Review: Spin Selling"
 cover_image: https://source.unsplash.com/9BoqXzEeQqM/1400x900
+category: archives
 tags:
   - books
   - review

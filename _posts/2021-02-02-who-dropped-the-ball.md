@@ -1,7 +1,7 @@
 ---
 title: Who Dropped the Ball?
 tags: story, responsibility, professional
-category: career
+category: archives
 cover_image: https://source.unsplash.com/9Eq26n8TeCM/900x500
 ---
 There are times throughout my career where I’ve taken an extreme stance on my responsibility as a developer. Ironically this approach was rarely met with accolades until well after the moments passed. So here are some of those stories. As you read them, I invite you to ask yourself what your responsibility is as a professional?

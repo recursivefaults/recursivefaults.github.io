@@ -1,7 +1,6 @@
 ---
 title: One Tip to Make Feedback Less Terrible
 tags: feedback, coaching, senior
-categories: consulting, careers
 excerpt: Feedback is a popular thing to offer and receive, but most of us have a love-hate relationship. Setting up the feedback conversation is key, and one technique is to ask about the type of feedback they want.
 cover_image: https://sources.unsplash.com/F9DFuJoS9EU/900x500
 ---

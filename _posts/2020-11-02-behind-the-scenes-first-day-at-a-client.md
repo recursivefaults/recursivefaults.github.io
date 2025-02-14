@@ -1,6 +1,6 @@
 ---
 title: Behind the Scenes - First Days At a Client
-category: consulting
+category: archives
 cover_image: https://source.unsplash.com/GZa4QFmv0Zg/900x500
 tags:
 - process

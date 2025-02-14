@@ -1,5 +1,6 @@
 ---
 title: Mechanics and Alchemists
+category: archives
 tags:
 - change
 - transformation

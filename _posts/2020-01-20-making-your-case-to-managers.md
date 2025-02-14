@@ -1,8 +1,5 @@
 ---
 title: Making A Case to Your Manager
-category: 
-- career
-- consulting
 cover_image: https://source.unsplash.com/JKUTrJ4vK00/900x500
 tags:
 - manager
