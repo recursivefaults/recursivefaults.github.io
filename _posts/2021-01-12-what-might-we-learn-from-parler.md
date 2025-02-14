@@ -1,6 +1,5 @@
 ---
 title: What Might We Learn From Parler?
-category: careers, consulting
 tags:
 - security
 - software

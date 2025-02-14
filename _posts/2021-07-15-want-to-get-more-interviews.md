@@ -1,7 +1,7 @@
 ---
 title: Want to Get More Interviews?
 tags: [interview, resume, career]
-categories: career
+category: career
 excerpt: Ever wondered why you don’t get an interview at some companies? The answer is that your resume wasn’t good enough. In this article, I will take a few moments to explain why that is and a few things you can do to stand out more.
 cover_image: https://source.unsplash.com/JNIc1QXJqvk/900x500
 ---

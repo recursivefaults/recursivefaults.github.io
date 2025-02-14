@@ -1,9 +1,8 @@
 ---
 layout: article_listing
 excerpt: >
-    Want to grow your technical or product leadership abilities? Maybe you need to influence key people, pick a new
-    tech-stack, or introduce key processes. These articles will show you how and more.
-title: Engineering and Product Leadership
+    Want to know how to build the next great product? Leran how to gain insights from customers, use data to influence decisions, and inspire development teams to create something remarkable.
+title: Product Management
 lead_text: >
     Don't miss out on my weekly newsletter that focuses on the challenges of leading teams, building exceptional
     products, and how to change organizations to have better results with the resources you already have.

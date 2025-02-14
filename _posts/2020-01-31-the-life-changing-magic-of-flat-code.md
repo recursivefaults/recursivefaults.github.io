@@ -1,9 +1,6 @@
 ---
 title: The Life-Changing Magic of Flat Code
 cover_image: https://source.unsplash.com/ObpCE_X3j6U/900x500
-category: 
-- career
-- consulting
 tags:
 - code
 - developer
