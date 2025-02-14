@@ -3,6 +3,7 @@
 /// pixelarity.com | hello@pixelarity.com
 /// License: pixelarity.com/license
 ///
+@use  'sass:color';
 
 /* Type */
 
@@ -29,7 +30,7 @@
 		));
 		text-decoration: none;
 		color: _palette(fg);
-		border-bottom: dotted 1px transparentize(_palette(fg), 0.5);
+		border-bottom: dotted 1px color.adjust(_palette(fg), $alpha: -0.5);
 
 		&:hover {
 			border-bottom-color: transparent;
@@ -140,7 +141,7 @@
 		border-left: solid (_size(border-width) * 4) _palette(border);
 		font-style: italic;
 		margin: 0 0 _size(element-margin) 0;
-		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
+		padding: (calc(_size(element-margin) / 4)) 0 (calc(_size(element-margin) / 4)) _size(element-margin);
 	}
 
 	code {

@@ -3,6 +3,7 @@
 /// pixelarity.com | hello@pixelarity.com
 /// License: pixelarity.com/license
 ///
+@use 'sass:color';
 
 /* Footer */
 
@@ -37,7 +38,7 @@
 				margin-top: 5em;
 				list-style: none;
 				font-size: 0.8em;
-				color: transparentize(_palette(fg), 0.5);
+				color: color.adjust(_palette(fg), $alpha:-0.5);
 
 				a {
 					color: inherit;
@@ -45,7 +46,7 @@
 
 				li {
 					display: inline-block;
-					border-left: solid 1px transparentize(_palette(fg), 0.85);
+					border-left: solid 1px color.adjust(_palette(fg), $alpha:-0.85);
 					line-height: 1;
 					padding: 0 0 0 1em;
 					margin: 0 0 0 1em;
