@@ -2,6 +2,7 @@
 title: Three Reasons Scrum May Not Be Working Out For You
 cover_image: https://source.unsplash.com/ww9DO6PsTBE/1400x900
 tags: agile, scrum
+featured: true
 description: Hurrying into development, a project manager pretending as a Scrum Master, and lame Sprint Reviews are three reasons your experience with Scrum sucks. In this article I explore each of these and ways to address them.
 ---
 Almost everywhere does something like Scrum these days or at least is familiar with it. Having said that, if you survey folks---and I have, you’ll find that most regard Scrum with ambivalence or animosity.

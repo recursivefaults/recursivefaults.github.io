@@ -1,5 +1,6 @@
 ---
 title: Strategy and Tactics
+featured: true
 tags:
 - agile
 - leadership

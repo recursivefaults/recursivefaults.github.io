@@ -1,5 +1,6 @@
 ---
 title: How to Learn What Your Team is Capable of
+fatured: true
 tags:
   - leadership
   - coaching

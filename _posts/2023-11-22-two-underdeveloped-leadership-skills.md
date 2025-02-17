@@ -1,6 +1,7 @@
 ---
 title: Two Underdeveloped Leadership Skills
 cover_image: https://source.unsplash.com/MYbhN8KaaEc/1400x900
+featured: true
 tags:
   - leadership
   - facilitation

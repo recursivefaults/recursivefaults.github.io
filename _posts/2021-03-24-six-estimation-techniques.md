@@ -5,6 +5,7 @@ tags:
 - agile
 - project management
 cover_image: https://source.unsplash.com/GunbIOwLC2s/900x500
+featured: true
 excerpt: There are few topics that create a ruckus on command like estimation does. I thought I’d share 6 different ways you can estimate the work ahead.
 ---
 I was in the middle of a discussion with some folks about estimation. Few topics create a ruckus on command as estimation does. That conversation led me to realize that there are many more ways to estimate than people often consider, and I thought I’d run through a few.

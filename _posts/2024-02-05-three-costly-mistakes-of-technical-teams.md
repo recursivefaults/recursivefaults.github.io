@@ -2,6 +2,7 @@
 title: Three Costly Mistakes of Technical Teams
 cover_image: https://source.unsplash.com/SAYzxuS1O3M/1400x900
 description: Technical teams often shout for improvments. More design, less testing, and new tools are common requests. However, these requests are often far more costly than the problems that exist today. This article explains the root of the issues here and how to address them.
+featured: true
 tags:
   - leadership
   - development

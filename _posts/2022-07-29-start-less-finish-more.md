@@ -1,6 +1,7 @@
 ---
 title: Start Less, Finish More
 tags: productivity, lean, littles law
+featured: true
 cover_image: https://source.unsplash.com/9HI8UJMSdZA/1400x900
 description: Starting less means finishing more. This goes against every intuition we have, yet is backed by Little’s Law. Focus on finishing before starting something new.
 ---

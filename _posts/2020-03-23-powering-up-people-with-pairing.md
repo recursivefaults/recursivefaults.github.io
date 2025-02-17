@@ -1,5 +1,6 @@
 ---
 title: Top Reasons to Try Pair-Programming
+featured: true
 alt_titles:
 - Feeling Lonely? Start Pairing
 - Accelerate Your Craft By Pairing

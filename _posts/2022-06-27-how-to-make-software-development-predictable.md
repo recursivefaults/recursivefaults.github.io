@@ -1,6 +1,7 @@
 ---
 title: How To Make Software Development Predictable
 tags: estimation, agile, planning
+featured: true
 cover_image: https://source.unsplash.com/zni0zgb3bkQ/1400x900
 description: Improving development processes start by eliminating variability. In this article I’ll show you how to measure it and a simple technique to address variability quickly.
 ---

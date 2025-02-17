@@ -8,6 +8,7 @@ tags:
 - personal development
 - job
 cover_image: https://source.unsplash.com/oolMDaGRRDQ/900x500
+featured: true
 ---
 Quite often, we find ourselves in jobs or roles that don’t make sense to us. It could be because they aren’t defined or because the definition always seems to change. How can you thrive if you don’t know how to succeed? One way you can change that is to define the principles you hold as you pursue excellence.
 

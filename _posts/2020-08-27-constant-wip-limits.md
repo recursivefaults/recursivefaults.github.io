@@ -1,6 +1,7 @@
 ---
 title: How I Cut Development Time to 1/3rd
 cover_image: https://source.usplash.com/zXqizKxnbBU/900x500
+featured: true
 tags:
 - agile
 - lean

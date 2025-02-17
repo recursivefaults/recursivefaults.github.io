@@ -1,8 +1,10 @@
 ---
 title: Get People on the Same Page in Under a Minute
 tags: technique, context, product
+featured: true
 cover_image: https://source.unsplash.com/iiaUVel-cJE/1400x900
 description: Quickly sharing an idea, so people get on the same page quickly is essential in a fast-paced environment. Here's a technique where you speak at 3 levels of detail that get people on the same page in less than a minute.
+category: product-management
 ---
 
 We often have to explain an idea in a way that gets people to share the same context quickly. Without that shared context, people spend quite a lot of time asking questions to fill in mental gaps instead of working on the issue.
