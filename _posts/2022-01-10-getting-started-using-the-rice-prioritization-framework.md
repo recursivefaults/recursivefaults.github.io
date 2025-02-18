@@ -2,6 +2,7 @@
 title: Getting Started Using the RICE Prioritization Method
 tags: prioritization, technique, product
 category: product-management
+featured: true
 cover_image: https://source.unsplash.com/3QFQOxGCVmE/1400x900
 ---
 Well, it’s 2022, and I took a break from writing for the past few months. It was a mistake, but I’m trying to correct that with this first article of the year.

@@ -18,7 +18,7 @@ Estimates aren’t accurate. Most people understand this at an intellectual leve
 
 This is probably the most commonly taught technique that you see practiced the least. At its core, you estimate things as they compare to other things.
 
-So if you have a pile of work, you pick one and decide which ones are bigger, smaller, or the same-as. I wrote an article on a fancier version of this called [affinity estimation](https://ryanlatta.com/2021/03/how-to-estimate-anything-quickly.html).
+So if you have a pile of work, you pick one and decide which ones are bigger, smaller, or the same-as. I wrote an article on a fancier version of this called [affinity estimation]({% post_url 2021-03-10-how-to-estimate-anything-quickly %}).
 
 The nice thing about this technique is it is quick to do, gives a rough sense of things without too many debates about what numbers mean.
 

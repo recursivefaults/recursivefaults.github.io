@@ -1,6 +1,7 @@
 ---
 title: Can You Hear Me Now?
 cover_image: https://source.unsplash.com/mp_FNJYcjBM/900x500
+featured: true
 tags:
 - leadership
 - agile

@@ -8,7 +8,7 @@ tags:
 ---
 This week I wanted to write about a technique that I use pretty regularly. The Pomodoro Technique. While I suspect many of you are familiar with it, I want to go over the basics so that if you want to find a way to make the most of the time you have, you can get started.
 
-I’ll also write a longer guide [on my blog](https://ryanlatta.com/consulting/2020/04/02/getting-started-with-pomodoro.html).
+I’ll also write a longer guide [on my blog]({% post_url 2020-04-02-getting-started-with-pomodoro %}).
 
 The basic concept is that you want to start a timer for 24 minutes and focus on only one thing with 100% of your effort for those 24 minutes. Then you take a small 4 minute break, and repeat. You do this cycle 4 times and then take a longer break.
 

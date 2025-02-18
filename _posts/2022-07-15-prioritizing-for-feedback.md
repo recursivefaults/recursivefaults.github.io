@@ -1,6 +1,7 @@
 ---
 title: Prioritizing for Feedback
 tags: product, prioritize
+featured: true
 category: product-management
 cover_image: https://source.unsplash.com/CrHG_ZYn1Dw/1400x900
 description: Prioritization is complicated, but one simple way to do it is to deprioritize everything that isn’t essential, and then seek feedback on those unessential items to pull a few back in.

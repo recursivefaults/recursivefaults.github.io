@@ -7,6 +7,7 @@ tags:
   - product
   - agile
   - priortization
+featured: true
 ---
 
 I've often felt like one of my natural talents or superpowers is how I prioritize features for products. Now, I know it is easy for anyone to feel that way, but there is a very sharp contrast between the backlogs I create and what most others create.
