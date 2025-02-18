@@ -5,7 +5,7 @@ featured: true
 cover_image: https://source.unsplash.com/zni0zgb3bkQ/1400x900
 description: Improving development processes start by eliminating variability. In this article I’ll show you how to measure it and a simple technique to address variability quickly.
 ---
-I wrote an article last week about the [Theory of Constraints]({% post_url 2022-06-06-thinking-on-the-theory-of-constraints %}). In particular, I highlighted how variability is probably the biggest enemy you have to a method like that working. So in this article, I’m going to explain a way to help reduce variability and measure it.
+I wrote an article last week about the [Theory of Constraints]({% post_url 2022-06-16-thinking-on-the-theory-of-constraints %}). In particular, I highlighted how variability is probably the biggest enemy you have to a method like that working. So in this article, I’m going to explain a way to help reduce variability and measure it.
 
 ## But Software Is Special
 
