@@ -28,7 +28,8 @@ feed:
         - newsletter
     categories:
         - career
-        - consulting
+        - leadership
+        - product-management
 
 # Build settings
 markdown: kramdown
