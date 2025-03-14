@@ -1,0 +1,66 @@
+---
+layout: default
+excerpt: >
+    Home for Ryan Latta's articles, offerings, and contact information for consulting services. Ryan Latta specializes
+    in building high-performing software groups using agile, lean, and numerous other techniques.
+cta_header: Stay sharp and inspired with a free newsletter delivered every week.
+cta_url: https://sendfox.com/lp/mno2g0
+cta_text: Don't miss out on the weekly advice, tips, techniques, and inspiration to conquer the challenges you face.
+---
+<header id="banner">
+    <div class="inner">
+        <h1>If you left today, would they follow you or throw a party?</h1>
+    </div>
+</header>
+<section id="introduction">
+    <div class="inner">
+        <span class="image left">
+            <a href="/leadership/offerings" class="image"><img src="/images/consulting.jpg" alt=""></a>
+        </span>
+        <p> When you realized you were going to be a leader, what kind of leader did you dream of becoming? Was it one that inspired the people around them? Was it accomplishing something remarkable? Was it surpassing your peers? Was it to save the people around you from the mistakes you've seen too many times?</p>
+        <p> The reality is that most leaders feel trapped by the real-world problems that come with a leadership roll. When your best day is enduring meetings or catching up on emails, things need to change. </p>
+        <p>You can continue on a path of growth for yourself and creating an environment and structure that your teams thrive in.</p>
+
+        <p> <b>You can break the cycle of mediocre leaders that you've seen before.</b></p>
+        
+        <p> On this site you'll find articles to help you build exceptional self-managing teams, create a field of opportunity, and gain renown as one of the best leaders people work with. You can also sign up for my weekly newsletter more deeply focuses on a specific topic or technique. Also, you can work directly with me and I can work with you to transform your teams and groups into the best teams anyone has ever seen.</p>
+
+        {% include email-signup-embed.html %}
+
+        <h2>Start reading today</h2>
+        <ul>
+            {% assign featured_posts = site.categories.leadership | where: "featured", "true" %}
+            {% for post in featured_posts %}
+            <li><a href="{{post.url}}">{{post.title}}</a></li>
+            {% endfor %}
+        </ul>
+        <a href="/leadership/articles/" class="button">More articles</a>
+        <hr>
+        <ul class="actions fit">
+            <li><a href="/leadership/offerings" class="button large primary">Work with me</a></li>
+            <li><a href="https://tidycal.com/ryanlatta/30-minute-meeting" class="button large primary">Call Me!</a></li>
+        </ul>
+    </div>
+</section>
+<!--
+    <section id="offerings">
+    <div class="inner">
+        <span class="image left">
+            <a href="/leadership/offerings" class="image"><img src="/images/consulting.jpg" alt=""></a>
+        </span>
+        <h2>Do you...</h2>
+        <ul>
+            <li>Have delivery slower than you'd like?</li>
+            <li>Struggle with too many bugs and production issues?</li>
+            <li>Wonder when you'll get those amazing results after going agile?</li>
+            <li>Wish teams would have better collaboration and work together more?</li>
+            <li>Need to hone your strategy?</li>
+            <li>Want to deliver head-turning results?</li>
+        </ul>
+        <p>I've worked with all kinds of companies from Start-ups to the Fortune 100 on these problems and more.</p>
+        <a href="/leadership/offerings" class="button primary">Work with me</a>
+        <a href="https://tidycal.com/ryanlatta/30-minute-meeting" class="button primary">Call Me!</a>
+        <a href="/leadership/articles" class="button">Articles</a>
+    </div>
+</section>
+-->

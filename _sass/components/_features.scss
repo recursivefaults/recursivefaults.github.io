@@ -3,6 +3,7 @@
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
+@use 'sass:color';
 
 /* Features */
 
@@ -13,7 +14,7 @@
 
 		article {
 			@include padding(1.75em, 1.75em);
-			background-color: desaturate(lighten(_palette(bg), 3), 1.5);
+			background-color: color.adjust(color.adjust(_palette(bg), $lightness: 3%), $saturation: -1.5%);
 			border-radius: _size(border-radius);
 			margin: (_size(section-spacing, large) * 0.5) _size(section-spacing, large) (_size(section-spacing, large) * 0.5) 0;
 			width: calc(50% - #{_size(section-spacing, large) * 0.5});

@@ -1,6 +1,7 @@
 ---
 title: The Split Mind of a Speaker
 layout: post
+category: archives
 tags:
 - conference
 - speaking

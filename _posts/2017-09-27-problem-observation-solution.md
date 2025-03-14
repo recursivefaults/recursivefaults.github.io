@@ -1,7 +1,6 @@
 ---
 title: "Problem, Observation, Solution"
 layout: post
-category:
 tags:
     - communication
     - leadership

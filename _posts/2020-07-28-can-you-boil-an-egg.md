@@ -2,9 +2,6 @@
 title: Can You Hard-Boil an Egg?
 alt_title:
 cover_image: https://source.unsplash.com/49Y9j30lGyg/900x500
-category:
-- consulting
-- career
 tags:
 - skill
 - development

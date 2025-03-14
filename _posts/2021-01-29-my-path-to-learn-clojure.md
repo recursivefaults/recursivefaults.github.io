@@ -4,7 +4,7 @@ tags:
 - software
 - clojure
 - learn
-categories: career, consulting
+category: archives
 cover_image: https://source.unsplash.com/UvGISu5ywxE/900x500
 ---
 I’ve been in this software game for over a decade now, and yep, still learning. Admittedly I haven’t had to put too much effort into learning new things as the years go on, but I decided to challenge myself by learning something where I have few previous patterns to leverage. I’m going to try and learn Clojure, which is a LISP, and breaks from most things I’m comfortable with.

@@ -3,7 +3,6 @@ title: Crystal Clear
 cover_image: https://source.unsplash.com/S81thHi1pz0/900x500
 category:
 - career
-- consulting
 tags:
 - visibility
 - goals

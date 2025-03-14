@@ -1,7 +1,7 @@
 ---
 title: 'The Biggest Reason Product Owners Fail'
 layout: post
-category:
+category: product-management
 tags:
     - agile
     - scrum

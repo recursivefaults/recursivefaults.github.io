@@ -1,6 +1,7 @@
 ---
 title: Thoughts on Agile Coaching
 layout: post
+category: archives
 tags:
     - agile
     - agile coaching

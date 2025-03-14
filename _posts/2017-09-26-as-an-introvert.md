@@ -1,7 +1,7 @@
 ---
 title: "As an Introvert"
 layout: post
-category:
+category: archives
 tags:
     - agile
     - team

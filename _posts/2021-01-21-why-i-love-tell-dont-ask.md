@@ -1,7 +1,6 @@
 ---
 title: My Love Affair With “Tell, Don’t Ask”
 cover_image: https://source.unsplash.com/zAOBpEE_vV4/900x500
-category: careers, consulting
 tags:
 - software
 - principle

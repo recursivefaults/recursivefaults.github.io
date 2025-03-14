@@ -1,6 +1,7 @@
 ---
 title: How I’m Building My First Online Class
 cover_image: https://source.unsplash.com/Hb6uWq0i4MI/900x500
+category: career
 tags:
 - course
 - online

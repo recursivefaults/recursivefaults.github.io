@@ -1,5 +1,6 @@
 ---
 title: Superstitions and Piseogs
+category: archives
 cover_image: https://source.unsplash.com/0V7_N62zZcU/1400x900
 description: We all grow up with superstitions and we develop new ones in our careers. In this article I will share two such superstitions of mine. One is about how I fight off sickness, and another is how I become a better leader.
 tags:

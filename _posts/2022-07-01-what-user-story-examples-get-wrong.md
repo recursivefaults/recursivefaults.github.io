@@ -1,6 +1,7 @@
 ---
 title: What Almost Every Example of User Stories Gets Wrong
 tags: user stories, agile, planning, product owner
+category: product-management
 cover_image: https://source.unsplash.com/9DaOYUYnOls/1400x900
 description: Almost everyone writes user stories for products, but never really know how to get their value. I’m going to point out some issues that everyone gets wrong that every example user story and training has and what to do instead.
 ---

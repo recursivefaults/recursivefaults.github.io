@@ -1,13 +1,11 @@
 ---
 title: Top Reasons to Try Pair-Programming
+featured: true
 alt_titles:
 - Feeling Lonely? Start Pairing
 - Accelerate Your Craft By Pairing
 - Powering-Up People With Pairing
 cover_image: https://source.unsplash.com/DrUguS1oBGU/900x500
-category:
-- career
-- consulting
 tags:
 - technical
 - practice

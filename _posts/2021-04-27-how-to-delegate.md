@@ -5,6 +5,7 @@ tags:
 - leader
 - delegate
 cover_image: https://source.unsplash.com/8gWEAAXJjtI/900x500
+featured: true
 excerpt: Delegation is a key skill for managers to master. Learn why you delegate, when, and then how to delegate effectively so your team improves and you have more time.
 ---
 A core competency for leaders is delegation. While there are plenty of great resources available on the art of delegation, I will share how I typically handle this competency for myself and the leaders I coach.

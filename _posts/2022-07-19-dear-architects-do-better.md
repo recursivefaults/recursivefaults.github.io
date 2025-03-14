@@ -1,6 +1,7 @@
 ---
 title: Dear Architects, Do Better
 tags: architect, letter, rant
+featured: true
 cover_image: https://source.unsplash.com/fteR0e2BzKo/1400x900
 description: Software architects need to do better. When I work with an architect I want to see the math, choose designs appropriate to the competencies, have evolutionary design, and take security and privacy seriously. 
 ---

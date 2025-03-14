@@ -1,9 +1,6 @@
 ---
 title: The Power of Personal Responsibility
 cover_image: https://source.unsplash.com/Vct2D4rZfmc/900x500
-category:
-- career
-- consulting
 tags:
 - responsibility
 - leadership

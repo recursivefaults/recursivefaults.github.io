@@ -1,6 +1,7 @@
 ---
 title: Quality Last Is a Stupid Strategy
 tags: quality, rant, strategy
+featured: true
 cover_image: https://source.unsplash.com/jPpHpgWNCKs/1400x900
 description: Time and time again people advocate for testing later. Can you really afford the consequences of having the strategy of quality last?
 ---

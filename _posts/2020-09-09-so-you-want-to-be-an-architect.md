@@ -5,9 +5,6 @@ tags:
 - architecture
 - software
 - career
-category:
-- career
-- consulting
 ---
 Earlier today, I was in a conversation with [Jabe Bloom](https://twitter.com/cyetain) about architecture. In my slowness to figure out what we were talking about, I thought we were talking about something else entirely.
 

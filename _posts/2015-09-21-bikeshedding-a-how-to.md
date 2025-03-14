@@ -1,7 +1,7 @@
 ---
 title: Bikeshedding, a How to Guide
 layout: post
-category:
+category: archives
 tags:
     - mvp
     - project management

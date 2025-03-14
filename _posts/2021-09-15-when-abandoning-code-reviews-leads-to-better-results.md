@@ -1,6 +1,7 @@
 ---
 title: When Abandoning Code Reviews Leads to Better Results
 tags: code, practice, trunk-based
+featured: true
 cover_image: https://source.unsplash.com/b0p818k8Ok8/1400x900
 ---
 The first time I was on a team that abandoned pull-requests and code reviews was back in 2011. I would keep pushing the groups I was in to do the same because the results were much better than the branch-based code reviews. 

@@ -1,7 +1,8 @@
 ---
 title: "Estimate Value Not Complexity"
 layout: post
-category:
+category: product-management
+featured: true
 tags:
     - agile
     - scrum
@@ -49,7 +50,7 @@ with what value has been asserted. I also think that this is actually the right 
 delivering something of value. I have always believed that in Scrum people have responsibilities instead of authorities, but
 you almost always see POs with complete authority over the product. So, this argumentative phase while teams and POs learn
 how to communicate and work out what it means to actually discover and deliver value is one that would require an actual 
-[Scrum Master]("/2016/02/15/excellence-by-proxy.html"), but would yield a team that is fully invested in the impact of this product. 
+[Scrum Master]("/leadership/excellence-by-proxy.html"), but would yield a team that is fully invested in the impact of this product. 
 Further, I suspect that because there is the normal sprint boundaries, teams will have a more lively discussion around 
 building the simplest thing that can work instead of ironing out all the technical details of the first idea they had.
 

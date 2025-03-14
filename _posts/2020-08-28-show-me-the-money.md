@@ -4,7 +4,6 @@ alt_titles:
 - Show Me the Money
 cover_image: https://source.unsplash.com/j06gLuKK0GM/900x500
 category:
-- consulting
 - career
 tags:
 - newsletter

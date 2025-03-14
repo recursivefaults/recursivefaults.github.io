@@ -1,5 +1,6 @@
 ---
 title: The Worst Job in My Career
+category: archives
 tags:
 - story
 - series

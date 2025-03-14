@@ -1,7 +1,7 @@
 ---
 title: 3 Alternatives to Saying, “I Don’t Know” In Interviews
 tags: [interview, question, technique]
-categories: [career]
+category: career
 excerpt: Eventually you won’t know how to answer a question in an interview. In this article I walk through three alternatives to saying “I don’t know” that give much better results.
 cover_image: https://source.unsplash.com/fg8tdcxrkrA/900x500
 ---

@@ -2,7 +2,8 @@
 title: Features and Gambling
 cover_image: https://source.unsplash.com/GikVY_KS9vQ/900x500
 layout: post
-category:
+featured: true
+category: product-management
 tags:
     - feature trap
     - product owner

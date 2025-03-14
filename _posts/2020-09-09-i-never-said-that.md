@@ -1,8 +1,6 @@
 ---
 title: I Never Said That!
 cover_image: https://source.unsplash.com/ASKeuOZqhYU/900x500
-category:
- - consulting
 tags:
 - leadership
 - communication

@@ -1,6 +1,8 @@
 ---
 title: The Shapes of User Stories
 cover_image: https://source.unsplash.com/0PPKxWtYh0g/900x500
+category: product-management
+featured: true
 tags:
 - user story
 - agile

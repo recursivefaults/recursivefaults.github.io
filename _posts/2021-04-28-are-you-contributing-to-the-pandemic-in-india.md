@@ -1,5 +1,6 @@
 ---
 title: Are You Contributing to the Pandemic in India?
+category: archives
 tags:
 - covid
 - leadership

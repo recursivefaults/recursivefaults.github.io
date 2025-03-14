@@ -1,6 +1,8 @@
 ---
 title: The Hardest Question
 layout: post
+category: product-management
+featured: true
 ---
 There is an endless number of questions that plague any group releasing a product, but there is one that, if ignored, will cripple any chance of success, and if answered, can yield phenomenal results.
 

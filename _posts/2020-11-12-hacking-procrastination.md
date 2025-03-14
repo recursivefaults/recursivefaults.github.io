@@ -2,7 +2,6 @@
 title: Hacking Procrastination
 cover_image: https://source.unsplash.com/KYxXMTpTzek/900x500
 tags: procrastination, technique, productivity
-category: career, consulting
 ---
 Some time ago, I was on a coaching call, and I noticed that they were getting frustrated as they talked more and more about all the work they weren’t getting done. I remarked that they seemed to be frustrated, and they then expressed that they keep putting everything off, and all this procrastination is killing them.
 

@@ -1,6 +1,8 @@
 ---
 title: Getting Started With the Lean Canvas
 tags: business, canvas, lean, product
+category: product-management
+featured: true
 cover_image: https://source.unsplash.com/VH8w75u3LE0/1400x900
 description: The Lean Canvas has been around for years, but I find many people aren’t familiar with it. In this article I tell you how to get started and use it to gain interest and de-risk that next product idea.
 ---

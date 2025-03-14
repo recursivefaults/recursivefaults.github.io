@@ -1,0 +1,48 @@
+---
+layout: default
+excerpt: >
+    Want to know how to build the next great product? Leran how to gain insights from customers, use data to influence decisions, and inspire development teams to create something remarkable.
+cta_url: https://sendfox.com/lp/mno2g0
+cta_header: Stay sharp and inspired with a free newsletter delivered every week.
+cta_text: Don't miss out on the weekly advice, tips, techniques, and inspiration to conquer the challenges you face.
+---
+<header id="banner">
+    <div class="inner">
+        <h1>Want to know what it really takes bring a product to market and avoid becoming another forgotten project?</h1>
+    </div>
+</header>
+<section id="introduction">
+    <div class="inner">
+        <span class="image left">
+            <a href="/leadership/offerings" class="image"><img src="/images/product.jpg" alt=""></a>
+        </span>
+        <p>Did you know something like 70% of all new products fail? So as you set out to build and launch your next product, what are you doing to be in that 30% that succeeds?</p>
+        <p>There are so many challenges that you face when building a product:</p>
+        <ul>
+            <li> Contending with a leader's pet idea </li>
+            <li> Too many stakeholders asking for too many things</li>
+            <li> Not enough time or budget</li>
+            <li> Development is too slow and sloppy</li>
+            <li> Not enough time for research</li>
+            <li> Too much red-tape</li>
+            <li> And so much more...</li>
+        </ul>
+        <p>The articles here are for product managers who are serious about launching a successful product. They show how to do customer discovery well, break work down, partner closely with development teams, and get stakeholders aligned.</p>
+
+        {% include email-signup-embed.html %}
+
+        <h2>Start reading today</h2>
+        <ul>
+            {% assign featured_posts = site.categories.product-management | where: "featured", "true" %}
+            {% for post in featured_posts %}
+            <li><a href="{{post.url}}">{{post.title}}</a></li>
+            {% endfor %}
+        </ul>
+        <a href="/product-management/articles/" class="button">More articles</a>
+        <hr>
+        <ul class="actions fit">
+            <li><a href="/leadership/offerings" class="button large primary">Work with me</a></li>
+            <li><a href="https://tidycal.com/ryanlatta/30-minute-meeting" class="button large primary">Call Me!</a></li>
+        </ul>
+    </div>
+</section>

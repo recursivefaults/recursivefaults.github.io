@@ -1,6 +1,7 @@
 ---
 title: Preparing For a Talk
 layout: post
+category: archives
 tags:
     - conference
     - talk

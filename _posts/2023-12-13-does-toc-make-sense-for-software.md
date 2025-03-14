@@ -2,6 +2,7 @@
 title: Does Theory of Constraints Make Sense for Software?
 cover_image: https://source.unsplash.com/Jk3-Uhdwjcs/1400x900
 description: Theory of Constraints promises to help improve systems, and books like The Phoenix Project tell a story of how it can happen. Though, for most groups, the Theory of Constraints is a bad fit, and I'll explain why.
+featured: true
 tags:
   - leadership
   - lean

@@ -1,6 +1,5 @@
 ---
 title: There Is No Best
-categories: career, consulting
 tags:
 - tech
 - best

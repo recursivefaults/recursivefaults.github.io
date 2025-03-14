@@ -1,7 +1,7 @@
 ---
 title: How I’m Creating an Online Class So You Can Too
 tags: course, class, hustle
-categories: [consulting, career]
+category: career
 excerpt: The basic elements to create your first online class are picking a topic, format, marketing, and long term results. I break those down in this article and how I’m doing them myself.
 cover_image: https://source.unsplash.com/WiONHd_zYI4/900x500
 ---

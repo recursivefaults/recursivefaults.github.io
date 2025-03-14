@@ -2,6 +2,7 @@
 title: Poorly Built Racecars Don't Win
 cover_image: https://source.unsplash.com/XtVl8IL-8EI/1400x900
 description: If racecars were built the way most organizations build software, they'd never finish a race. Organization's singular focus on speed creates ruinous levels of quality. Shifting to focus on quality first, on the other hand, creates huge time savings and having a car that finishes the race.
+featured: true
 tags:
   - quality
   - leadership

@@ -1,6 +1,7 @@
 ---
 title: My First Time
 layout: post
+category: archives
 tags:
     - agile
     - scrum master

@@ -1,6 +1,5 @@
 ---
 title: 4 Steps to Better Action
-category: consulting, career
 cover_image: https://source.unsplash.com/h-SPe7lqIQ4/900x500
 tags:
 - meeting

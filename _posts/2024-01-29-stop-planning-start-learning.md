@@ -1,6 +1,7 @@
 ---
 title: Stop Planning and Start Learning
 cover_image: https://source.unsplash.com/PC91Jm1DlWA/1400x900
+category: product-management
 description: 
 tags:
   - product

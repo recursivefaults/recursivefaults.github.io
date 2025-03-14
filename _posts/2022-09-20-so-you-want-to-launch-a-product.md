@@ -1,6 +1,7 @@
 ---
 title: So You Want To Launch a Product
 tags: product, launch, software
+category: product-management
 cover_image: https://source.unsplash.com/RLw-UC03Gwc/1400x900
 description: A successful product launch involves a lot more than getting the core product ready. Here’s a list of things that people forget or come too late.
 ---

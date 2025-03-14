@@ -5,9 +5,10 @@ excerpt: >
     facilitating your next important meeting. The listed services also serve as a starting point for a custom-tailored
     engagement.
 title: Services and Offerings
-cta_text: Sign Up!
+cta_header: Get a weekly newsletter that will transform your approach to leadership.
 cta_url: https://sendfox.com/lp/mno2g0
-lead_text: I wrote a FREE email series describing how I go about building software teams that have up to 10x performance!
+cta_text: > 
+    Read what everyone from developers to executives look forward to every week. If you're serious about growth, this free newsletter is what you need.
 ---
 
 My mission is to create teams that change the world.
@@ -15,6 +16,9 @@ My mission is to create teams that change the world.
 I’ve acquired and honed a lot of unique skills, knowledge, and experience in the pursuit of my mission, and that means I have a lot to offer your group as well.
 
 The list below is a set of offerings I’ve developed and deployed in other clients. If you don’t see something that you want, reach out to me. A lot of these offerings started that exact way!
+
+If you have any questions about what you see or want to discuss your unique problem, lets talk!
+<p><a href="https://tidycal.com/ryanlatta/30-minute-meeting" class="button large primary">Schedule a free call</a> </p>
 
 ## 10x Team Program
 
@@ -24,11 +28,14 @@ What does that 10x look like? Well, it looks like fewer bugs and defects, more f
 
 My approach involves aligning leadership, targeted training, and embedded consulting as new skills are practiced, and a fundamental shift in how work happens takes root.
 
+
 ## Last Chance Consulting
 
 I love a challenge. If you have a situation that appears to be a do-or-die moment, we should talk. I’ve been able to bring numerous products to market as the last-ditch effort when money runs out, and there are no more options left. To do this, I bring a series of technical fundamentals to the team that allows flexible and fast delivery while I simultaneously work with leaders and product people to simplify the product and cut ballast everywhere possible.
 
 If you’re running out of chances, this is for you.
+
+{% include email-signup-embed.html %}
 
 ## Impossibly Possible
 

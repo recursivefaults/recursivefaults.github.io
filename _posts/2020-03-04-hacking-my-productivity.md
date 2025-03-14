@@ -5,9 +5,6 @@ alternate_titles:
 - Starting a Business on Two Hours a Day
 - My 3 Tools for Staying Productive
 cover_image: https://source.unsplash.com/KE0nC8-58MQ/900x500
-category:
-- consulting
-- career
 tags:
 - productivity
 - workflow

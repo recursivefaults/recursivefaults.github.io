@@ -1,6 +1,5 @@
 ---
 title: When to Break the Rules
-category: consulting
 tags:
 - development
 - principal
