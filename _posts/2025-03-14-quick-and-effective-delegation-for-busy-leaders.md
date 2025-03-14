@@ -76,4 +76,4 @@ Here are some other interesting articles related to this one:
 - [How to Delegate]({% post_url 2021-04-27-how-to-delegate %})
 - [Managing Self-Managed Teams]({% post_url 2023-11-15-managing-self-managed-teams %})
 - [Get People on the Same Page in Under a Minute]({% post_url 2022-04-25-get-people-on-the-same-page-in-under-a-minute %})
-- [Bringing Conversations To a Point Using ORID]({ % post_url 2021-11-01-bringing-conversations-to-a-point-using-orid %})
+- [Bringing Conversations To a Point Using ORID]({% post_url 2021-11-01-bringing-conversations-to-a-point-using-orid %})
