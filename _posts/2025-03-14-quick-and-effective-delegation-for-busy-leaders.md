@@ -2,6 +2,7 @@
 title: Quick and Effective Delegation for Busy Leaders
 description: Learning to delegate can be one of the most significant factors in how much time leaders have to focus on strategic initiatives, the growth and development of their people, and devoting crucial time to emerging crises. This article breaks down how to delegate effectively, when to delegate, and how to grow your capabilities.
 cover_image: https://source.unsplash.com/JZyJxeCBtF4/1400x900
+featured: true
 tags:
     - leadership
     - delegation
@@ -70,8 +71,9 @@ After each delegation attempt, follow up and seek the feedback I mentioned above
 
 Here are some other interesting articles related to this one:
 
-- [Two Underdeveloped Leadership Skills]({{% post_url 2023-11-22-two-underdeveloped-leadership-skills %}})
-- [Its a secret]({{% post_url 2023-12-26-its-a-secret %}})
-- [Managing Self-Managed Teams]({{% post_url 2023-11-15-managing-self-managed-teams %}})
-- [Get People on the Same Page in Under a Minute]({{% post_url 2022-04-25-get-people-on-the-same-page-in-under-a-minute %}})
-- [Bringing Conversations To a Point Using ORID]({{ % post_url 2021-11-01-bringing-conversations-to-a-point-using-orid %}})
+- [Two Underdeveloped Leadership Skills]({% post_url 2023-11-22-two-underdeveloped-leadership-skills %})
+- [Its a secret]({% post_url 2023-12-26-its-a-secret %})
+- [How to Delegate]({% post_url 2021-04-27-how-to-delegate %})
+- [Managing Self-Managed Teams]({% post_url 2023-11-15-managing-self-managed-teams %})
+- [Get People on the Same Page in Under a Minute]({% post_url 2022-04-25-get-people-on-the-same-page-in-under-a-minute %})
+- [Bringing Conversations To a Point Using ORID]({ % post_url 2021-11-01-bringing-conversations-to-a-point-using-orid %})
