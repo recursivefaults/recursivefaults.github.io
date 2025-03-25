@@ -2,7 +2,6 @@
 title: Knowing the Details and Trusting the Team
 cover_image: https://source.unsplash.com/fCzSfVIQlVY/900x500
 tags: leadership, management, team
-featured: true
 ---
 I often work with leaders who have a team or several teams of developers and want to trust them but wind up surprised and frustrated when news breaks. This incongruence feels a little hopeless because, on the one hand, they trust the team to take care of things, but then things still go wrong. What do you do about knowing the details and trusting the team?
 
