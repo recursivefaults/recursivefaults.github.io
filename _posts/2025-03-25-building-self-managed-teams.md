@@ -1,10 +1,7 @@
 ---
-title: Technical Leader's Strategic Advantage: Building Self-Managed Teams
+title: "Technical Leader's Strategic Advantage: Building Self-Managed Teams"
 featured: true
-tags:
-- self-managing
-- teams
-- agile
+tags: self-managing, teams, agile
 cover_image: https://source.unsplash.com/L-1hBbNj4Ug/1400x900
 description: Unlock the power of a self-managed team! Discover the definition, benefits, and strategies for fostering autonomy and effective self-management in your team.
 ---
