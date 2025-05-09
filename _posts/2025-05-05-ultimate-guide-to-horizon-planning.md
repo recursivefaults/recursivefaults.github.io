@@ -8,7 +8,7 @@ tags:
   - planning
   - strategy
 ---
-I've used [horizon planning]({% post_url 2023-11-20-example-of-horizon-planning %"}) for years now, but I only recently discovered that folks like McKinsey do something similar. Horizon planning focuses on strategic goals along distant points called horizons. It is really useful because it rapidly communicates the direction, long-term goals, and flexible yet practical approach to getting there. 
+I've used [horizon planning]({% post_url 2023-11-20-example-of-horizon-planning %}) for years now, but I only recently discovered that folks like McKinsey do something similar. Horizon planning focuses on strategic goals along distant points called horizons. It is really useful because it rapidly communicates the direction, long-term goals, and flexible yet practical approach to getting there. 
 
 In other words, it's an excellent tool for communicating strategy over time.
 
@@ -51,7 +51,8 @@ Hopefully, this paints a picture of how they're used. If you're familiar with OK
 
 ## Get Alignment with Your Horizon Plan
 
-Communication is hard, and one technique I teach leaders is about communication across [three levels of granularity]({% post_url get-everyone-on-the-same-page-in-a-minute %}). Horizon planning is a fantastic tool to help with that technique and communication style. Once you have your horizon plan, bring it to your planning meetings, status updates, and similar situations. When questions come up about the scope, or there is a decision about altering the scope, you can use your horizon plan to point out the overall direction, the importance of that goal, and how the change or continuation of that scope is your best plan so far.
+Communication is hard, and one technique I teach leaders is about communication across [three levels of granularity]({% post_url 2022-04-25-get-people-on-the-same-page-in-under-a-minute %}). Horizon planning is a fantastic tool to help with that technique and communication style. Once you have your horizon plan, bring it to your planning meetings, status updates, and similar situations. When questions come up about the scope, or there is a decision about altering the scope, you can use your horizon plan to point out the overall direction, the importance of that goal, and how the change or continuation of that scope is your best plan so far.
+    
 
 Using your horizon plan to help everyone see how today's step fits into a larger goal makes a huge difference in getting everyone on the same page and moving the conversation to a more productive mode instead of debating minutiae. 
 
@@ -89,6 +90,6 @@ You should take a crack at doing a horizon plan as soon as possible. Invent a ne
 - Do acknowledge when a changing situation prompts a change to the horizon plan
 - Do develop ways to observe what you need to when evaluating where you are in your plan
 - Do review the horizon plan periodically (Every quarter might be fine to start)
-- Do [read this other article I wrote on horizon planning]({% post_url example-of-horizon-planning %})
+- Do [read this other article I wrote on horizon planning]({% post_url 2023-11-20-example-of-horizon-planning %})
 
 [Download the template now]({% link content/horizon-planning-template.pdf %})
