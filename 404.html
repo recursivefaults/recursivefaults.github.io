@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<header>
+        <h1>Aww crap</h1>
+        <p>Looks like the page you are looking for isn't here.</p>
+</header>
+<div class="wrapper">
+    <div class="inner">
+        <h2>You might also enjoy these</h2>
+        <section class="features">
+            {% for post in site.posts limit: 4 %}
+            {% include article-snippit.html %}
+            {% endfor %}
+        </section>
+    </div>
+</div>
