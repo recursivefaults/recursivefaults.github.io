@@ -87,7 +87,7 @@ I've yet to find a point of diminishing returns on making communication more eff
 
 ## Further Reading
 
-- [Building Self-Managed Teams]({% post_url 2025-03-25-building-self-managed-teams})
+- [Building Self-Managed Teams]({% post_url 2025-03-25-building-self-managed-teams %})
 - [Get People on the Same Page in Under a Minute]({% post_url 2022-04-25-get-people-on-the-same-page-in-under-a-minute %})
 - [Its a secret]({% post_url 2023-12-26-its-a-secret %})
 - [A Short List of Unhealthy Beliefs]({% post_url 2023-11-29-short-list-of-unhealthy-beliefs %})
