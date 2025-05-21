@@ -69,7 +69,7 @@ A small tip is that you don't want to vary your message much. This is because of
 
 ### Tracing Communication
 
-One issue of miscommunication that I didn't bring up is that every place experiences the same phenomenon kids do when [they play the telephone game]({% post_url 2020-12-31-can-you-hear-me-now %}). You say your message, which gets reinterpreted and passed along with differences to someone else who does the same, and then people work with a completely different set of understanding.
+One issue of miscommunication that I didn't bring up is that every place experiences the same phenomenon kids do when [they play the telephone game]({% post_url 2019-09-05-can-you-hear-me-now %}). You say your message, which gets reinterpreted and passed along with differences to someone else who does the same, and then people work with a completely different set of understanding.
 
 Some of this is happening to bridge that context issue. The issue is that you don't know how that is happening or how well it is happening, and often, there are issues.
 
