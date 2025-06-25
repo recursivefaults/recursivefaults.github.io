@@ -6,9 +6,12 @@ layout: generic
     <img id="article-image" data-unsplash-id="{{page.cover_image}}">
 </span>
 
-<div>
-    <p class="post-meta">
+<div class="post-meta">
     {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
-    </p>
+    <ul class="inline taglist">
+        {% for tag in page.tags %}
+        <li><a href="/tag/{{tag | slugify}}">{{tag}}</a></li>
+        {% endfor %}
+    </ul>
 </div>
 {{ content }}
