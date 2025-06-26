@@ -27,6 +27,23 @@
 			padding-left: 0.5em;
 		}
 
+        &.inline {
+            padding-left: 0;
+            list-style: none;
+            li {
+                display: inline;
+            }
+        }
+
+        &.taglist {
+            list-style: none;
+            li {
+                &:before {
+                    content:"#";
+                }
+            }
+        }
+
 		&.alt {
 			list-style: none;
 			padding-left: 0;
@@ -41,6 +58,7 @@
 				}
 			}
 		}
+
 	}
 
 	dl {

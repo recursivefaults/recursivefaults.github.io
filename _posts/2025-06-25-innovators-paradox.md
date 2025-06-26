@@ -1,5 +1,5 @@
 ---
-title: The Innovation Paradox: The Many Minds of A Leader
+title: "The Innovation Paradox: The Many Minds of A Leader"
 description: Does innovation come at the cost of stability? How do you manage performance when you're doing something new? Welcome to the innovation paradox and what you can do about it.
 tags:
 - leadership
