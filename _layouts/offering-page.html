@@ -1,0 +1,26 @@
+---
+layout: generic
+---
+<header>
+    <div class="inner">
+        <h1>{{page.title}}</h1>
+            
+            <p class="post-meta">
+                {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+            </p>
+    </div>
+</header>
+<div class="wrapper">
+    <div class="inner">
+        {{ content }}
+
+        <div>
+            <hr />
+            <ul class="actions fit">
+                <li><a href="/leadership/offerings" class="button">Learn about my offerings</a> </li>
+            </ul>
+        </div>
+        {% include email-signup-embed.html %}
+    </div>
+
+</div>

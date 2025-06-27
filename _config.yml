@@ -12,9 +12,11 @@ github_username:  recursivefaults
 
 #Collections
 collections:
-  - workshops
-  - talks
-  - podcasts
+  workshops:
+  talks:
+  podcasts:
+  case_study:
+    output: true
 
 plugins:
     - jekyll-feed
@@ -52,6 +54,9 @@ defaults:
       values:
         layout: "post" 
         category: "leadership" 
+        cta_header: Free booklet on Measures and Signals!
+        cta_url: https://sendfox.com/lp/mno2g0
+        cta_text: Get a free booklet of distilled wisdom on using metrics and my weekly newsletter to help you create exceptional teams.
     - scope:
         path: ""
         type: "pages"
@@ -68,11 +73,11 @@ defaults:
         cta_url: https://sendfox.com/lp/m7z24v
     - scope:
         path: ""
-        category: "consulting"
+        category: "product-management"
       values:
-        cta_header: Sign Up!
+        cta_header: Free booklet on Measures and Signals!
         cta_url: https://sendfox.com/lp/mno2g0
-        cta_text: I wrote a FREE email series describing how I go about building software teams that have up to 10x performance!
+        cta_text: Get a free booklet of distilled wisdom on using metrics and my weekly newsletter to help you create exceptional teams.
 
 pagination:
   enabled: true

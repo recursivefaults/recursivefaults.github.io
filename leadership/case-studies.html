@@ -1,0 +1,26 @@
+---
+layout: page
+excerpt: >
+    Want to grow your technical leadership abilities? Maybe you need to influence key people, pick a new
+    tech-stack, or introduce key processes. These articles will show you how and more.
+title: Case Studies
+lead_text: >
+    Don't miss out on my weekly newsletter that focuses on the challenges of leading teams, building exceptional
+    products, and how to change organizations to have better results with the resources you already have.
+cta_text: Join Now!
+cta_url: https://sendfox.com/lp/mno2g0
+sitemap: true
+pagination:
+  enabled: false
+  category: leadership
+---
+{% for post in site.case_study %}
+<h3 class="major">
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+</h3>
+<p> {{ post.date | date_to_string }}</p>
+<p> {{ post.description }}</p>
+<ul class="actions">
+    <li><a class="special" href="{{ post.url | prepend: site.baseurl }}">Read More</a></li>
+</ul>
+{% endfor %}
