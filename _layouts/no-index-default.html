@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include no-index-head.html %}
+
+  <body>
+      <div id="wrapper">
+
+          {% include header.html %}
+
+          <div id="main">
+              <div class="inner">
+                  {{content}}
+              </div>
+          </div>
+
+
+          <footer id="footer">
+              {% include contact.html %}
+          </footer>
+          {% include footer.html %}
+      </div>
+
+    {% include scripts.html %}
+    {% include menu.html %}
+  </body>
+
+</html>
