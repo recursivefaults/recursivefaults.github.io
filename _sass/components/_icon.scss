@@ -1,3 +1,7 @@
+@use "../libs/functions";
+@use "../libs/mixins";
+@use "../libs/vendor";
+
 ///
 /// Phantom by Pixelarity
 /// pixelarity.com | hello@pixelarity.com
@@ -8,7 +12,7 @@
 /* Icon */
 
 	.icon {
-		@include icon;
+		@include mixins.icon;
 		border-bottom: none;
 		position: relative;
 
@@ -36,14 +40,14 @@
 		}
 
 		&.style2 {
-			@include vendor('transition', (
-				'background-color #{_duration(transition)} ease-in-out',
-				'color #{_duration(transition)} ease-in-out',
-				'border-color #{_duration(transition)} ease-in-out'
+			@include vendor.vendor('transition', (
+				'background-color #{functions.duration(transition)} ease-in-out',
+				'color #{functions.duration(transition)} ease-in-out',
+				'border-color #{functions.duration(transition)} ease-in-out'
 			));
 			background-color: transparent;
-			border: solid 1px _palette(border);
-			border-radius: _size(border-radius);
+			border: solid 1px functions.palette(border);
+			border-radius: functions.size(border-radius);
 			width: 2.65em;
 			height: 2.65em;
 			display: inline-block;
@@ -56,12 +60,12 @@
 			}
 
 			&:hover {
-				color: _palette(accent1);
-				border-color: _palette(accent1);
+				color: functions.palette(accent1);
+				border-color: functions.palette(accent1);
 			}
 
 			&:active {
-				background-color: color.adjust(_palette(accent1), $alpha: -0.9);
+				background-color: color.adjust(functions.palette(accent1), $alpha: -0.9);
 			}
 		}
 	}

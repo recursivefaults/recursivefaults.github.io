@@ -1,3 +1,8 @@
+@use "../libs/breakpoints";
+@use "../libs/functions";
+@use "../libs/mixins";
+@use "../libs/vendor";
+
 ///
 /// Phantom by Pixelarity
 /// pixelarity.com | hello@pixelarity.com
@@ -8,15 +13,15 @@
 /* Footer */
 
 	#footer {
-		$gutter: _size(gutter);
+		$gutter: functions.size(gutter);
 
-		@include padding(5em, 0, (0, 0, 3em, 0));
-		background-color: _palette(bg-alt);
+		@include mixins.padding(5em, 0, (0, 0, 3em, 0));
+		background-color: functions.palette(bg-alt);
 
 		> .inner {
-			@include vendor('display', 'flex');
-			@include vendor('flex-wrap', 'wrap');
-			@include vendor('flex-direction', 'row');
+			@include vendor.vendor('display', 'flex');
+			@include vendor.vendor('flex-wrap', 'wrap');
+			@include vendor.vendor('flex-direction', 'row');
 
 			> * > :last-child {
 				margin-bottom: 0;
@@ -38,7 +43,7 @@
 				margin-top: 5em;
 				list-style: none;
 				font-size: 0.8em;
-				color: color.adjust(_palette(fg), $alpha:-0.5);
+				color: color.adjust(functions.palette(fg), $alpha:-0.5);
 
 				a {
 					color: inherit;
@@ -46,7 +51,7 @@
 
 				li {
 					display: inline-block;
-					border-left: solid 1px color.adjust(_palette(fg), $alpha:-0.85);
+					border-left: solid 1px color.adjust(functions.palette(fg), $alpha:-0.85);
 					line-height: 1;
 					padding: 0 0 0 1em;
 					margin: 0 0 0 1em;
@@ -60,10 +65,10 @@
 			}
 		}
 
-		@include breakpoint('<=large') {
-			$gutter: _size(gutter) * 0.5;
+		@include breakpoints.breakpoint('<=large') {
+			$gutter: functions.size(gutter) * 0.5;
 
-			@include padding(5em, 0);
+			@include mixins.padding(5em, 0);
 
 			> .inner {
 				section:nth-child(1) {
@@ -78,8 +83,8 @@
 			}
 		}
 
-		@include breakpoint('<=medium') {
-			$gutter: _size(gutter);
+		@include breakpoints.breakpoint('<=medium') {
+			$gutter: functions.size(gutter);
 
 			> .inner {
 				section:nth-child(1) {
@@ -94,11 +99,11 @@
 			}
 		}
 
-		@include breakpoint('<=small') {
-			@include padding(3em, 0);
+		@include breakpoints.breakpoint('<=small') {
+			@include mixins.padding(3em, 0);
 
 			> .inner {
-				@include vendor('flex-direction', 'column');
+				@include vendor.vendor('flex-direction', 'column');
 
 				section:nth-child(1) {
 					width: 100%;
@@ -107,7 +112,7 @@
 				}
 
 				section:nth-child(2) {
-					@include vendor('order', '-1');
+					@include vendor.vendor('order', '-1');
 					width: 100%;
 					margin-left: 0;
 				}
@@ -118,7 +123,7 @@
 			}
 		}
 
-		@include breakpoint('<=xsmall') {
+		@include breakpoints.breakpoint('<=xsmall') {
 			> .inner {
 				.copyright {
 					margin-top: 3em;

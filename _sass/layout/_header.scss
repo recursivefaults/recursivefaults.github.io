@@ -1,3 +1,8 @@
+@use "../libs/breakpoints";
+@use "../libs/functions";
+@use "../libs/mixins";
+@use "../libs/vendor";
+
 ///
 /// Phantom by Pixelarity
 /// pixelarity.com | hello@pixelarity.com
@@ -8,15 +13,15 @@
 /* Header */
 
 	#header {
-		@include padding(5em, 0, (3em, 0, -5em, 0));
+		@include mixins.padding(5em, 0, (3em, 0, -5em, 0));
 
 		.logo {
 			display: block;
 			border-bottom: 0;
 			color: inherit;
-			font-weight: _font(weight-bold);
-			letter-spacing: _font(letter-spacing);
-			margin: 0 0 (_size(element-margin) * 1.25) 0;
+			font-weight: functions.font(weight-bold);
+			letter-spacing: functions.font(letter-spacing);
+			margin: 0 0 (functions.size(element-margin) * 1.25) 0;
 			text-decoration: none;
 			text-transform: uppercase;
 			display: inline-block;
@@ -41,11 +46,11 @@
 			position: fixed;
 			right: 2em;
 			top: 2em;
-			z-index: _misc(z-index-base);
+			z-index: functions.misc(z-index-base);
 
 			ul {
-				@include vendor('display', 'flex');
-				@include vendor('align-items', 'center');
+				@include vendor.vendor('display', 'flex');
+				@include vendor.vendor('align-items', 'center');
 				list-style: none;
 				margin: 0;
 				padding: 0;
@@ -60,12 +65,12 @@
 						height: 3em;
 						line-height: 3em;
 						padding: 0 1.5em;
-						background-color: color.adjust(_palette(bg), $alpha: -0.5);
-						border-radius: _size(border-radius);
+						background-color: color.adjust(functions.palette(bg), $alpha: -0.5);
+						border-radius: functions.size(border-radius);
 						border: 0;
 						font-size: 0.8em;
-						font-weight: _font(weight-bold);
-						letter-spacing: _font(letter-spacing);
+						font-weight: functions.font(weight-bold);
+						letter-spacing: functions.font(letter-spacing);
 						text-transform: uppercase;
 					}
 
@@ -79,7 +84,7 @@
 						white-space: nowrap;
 
 						&:before, &:after {
-							@include vendor('transition', 'opacity #{_duration(transition)} ease');
+							@include vendor.vendor('transition', 'opacity #{functions.duration(transition)} ease');
 							content: '';
 							display: block;
 							position: absolute;
@@ -93,12 +98,12 @@
 						}
 
 						&:before {
-							background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 8px; stroke: #{_palette(accent1)}; }</style><line x1="0" y1="25" x2="100" y2="25" /><line x1="0" y1="50" x2="100" y2="50" /><line x1="0" y1="75" x2="100" y2="75" /></svg>');
+							background-image: mixins.svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 8px; stroke: #{functions.palette(accent1)}; }</style><line x1="0" y1="25" x2="100" y2="25" /><line x1="0" y1="50" x2="100" y2="50" /><line x1="0" y1="75" x2="100" y2="75" /></svg>');
 							opacity: 0;
 						}
 
 						&:after {
-							background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 8px; stroke: #{_palette(fg)}; }</style><line x1="0" y1="25" x2="100" y2="25" /><line x1="0" y1="50" x2="100" y2="50" /><line x1="0" y1="75" x2="100" y2="75" /></svg>');
+							background-image: mixins.svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 8px; stroke: #{functions.palette(fg)}; }</style><line x1="0" y1="25" x2="100" y2="25" /><line x1="0" y1="50" x2="100" y2="50" /><line x1="0" y1="75" x2="100" y2="75" /></svg>');
 							opacity: 1;
 						}
 
@@ -116,8 +121,8 @@
 			}
 		}
 
-		@include breakpoint('<=small') {
-			@include padding(3em, 0, (1em, 0, -3em, 0));
+		@include breakpoints.breakpoint('<=small') {
+			@include mixins.padding(3em, 0, (1em, 0, -3em, 0));
 
 			nav {
 				right: 0.5em;

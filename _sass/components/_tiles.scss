@@ -1,3 +1,8 @@
+@use "../libs/breakpoints";
+@use "../libs/functions";
+@use "../libs/mixins";
+@use "../libs/vendor";
+
 ///
 /// Phantom by Pixelarity
 /// pixelarity.com | hello@pixelarity.com
@@ -7,17 +12,17 @@
 /* Tiles */
 
 	.tiles {
-		$gutter: _size(gutter);
+		$gutter: functions.size(gutter);
 		$duration: 0.5s;
 		$ease: 'ease';
 
-		@include vendor('display', 'flex');
-		@include vendor('flex-wrap', 'wrap');
+		@include vendor.vendor('display', 'flex');
+		@include vendor.vendor('flex-wrap', 'wrap');
 		postiion: relative;
 		margin: ($gutter * -1) 0 0 ($gutter * -1);
 
 		article {
-			@include vendor('transition', (
+			@include vendor.vendor('transition', (
 				'transform #{$duration} #{$ease}',
 				'opacity #{$duration} #{$ease}'
 			));
@@ -26,11 +31,11 @@
 			margin: $gutter 0 0 $gutter;
 
 			> .image {
-				@include vendor('transition', 'transform #{$duration} #{$ease}');
+				@include vendor.vendor('transition', 'transform #{$duration} #{$ease}');
 				position: relative;
 				display: block;
 				width: 100%;
-				border-radius: _size(border-radius);
+				border-radius: functions.size(border-radius);
 				overflow: hidden;
 
 				img {
@@ -39,8 +44,8 @@
 				}
 
 				&:before {
-					@include vendor('pointer-events', 'none');
-					@include vendor('transition', (
+					@include vendor.vendor('pointer-events', 'none');
+					@include vendor.vendor('transition', (
 						'background-color #{$duration} #{$ease}',
 						'opacity #{$duration} #{$ease}'
 					));
@@ -57,8 +62,8 @@
 				}
 
 				&:after {
-					@include vendor('pointer-events', 'none');
-					@include vendor('transition', 'opacity #{$duration} #{$ease}');
+					@include vendor.vendor('pointer-events', 'none');
+					@include vendor.vendor('transition', 'opacity #{$duration} #{$ease}');
 					content: '';
 					display: block;
 					position: absolute;
@@ -66,7 +71,7 @@
 					left: 0;
 					width: 100%;
 					height: 100%;
-					background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 0.25px; stroke: #ffffff; }</style><line x1="0" y1="0" x2="100" y2="100" /><line x1="100" y1="0" x2="0" y2="100" /></svg>');
+					background-image: mixins.svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 0.25px; stroke: #ffffff; }</style><line x1="0" y1="0" x2="100" y2="100" /><line x1="100" y1="0" x2="0" y2="100" /></svg>');
 					background-position: center;
 					background-repeat: no-repeat;
 					background-size: 100% 100%;
@@ -76,11 +81,11 @@
 			}
 
 			> a {
-				@include vendor('display', 'flex');
-				@include vendor('flex-direction', 'column');
-				@include vendor('align-items', 'center');
-				@include vendor('justify-content', 'center');
-				@include vendor('transition', (
+				@include vendor.vendor('display', 'flex');
+				@include vendor.vendor('flex-direction', 'column');
+				@include vendor.vendor('align-items', 'center');
+				@include vendor.vendor('justify-content', 'center');
+				@include vendor.vendor('transition', (
 					'background-color #{$duration} #{$ease}',
 					'transform #{$duration} #{$ease}'
 				));
@@ -90,9 +95,9 @@
 				width: 100%;
 				height: 100%;
 				padding: 1em;
-				border-radius: _size(border-radius);
+				border-radius: functions.size(border-radius);
 				border-bottom: 0;
-				color: _palette(fg-accent);
+				color: functions.palette(fg-accent);
 				text-align: center;
 				text-decoration: none;
 				z-index: 3;
@@ -102,7 +107,7 @@
 				}
 
 				&:hover {
-					color: _palette(fg-accent) !important;
+					color: functions.palette(fg-accent) !important;
 				}
 
 				h2 {
@@ -110,7 +115,7 @@
 				}
 
 				.content {
-					@include vendor('transition', (
+					@include vendor.vendor('transition', (
 						'max-height #{$duration} #{$ease}',
 						'opacity #{$duration} #{$ease}'
 					));
@@ -128,47 +133,47 @@
 
 			&.style1 {
 				> .image:before {
-					background-color: _palette(accent1);
+					background-color: functions.palette(accent1);
 				}
 			}
 
 			&.style2 {
 				> .image:before {
-					background-color: _palette(accent2);
+					background-color: functions.palette(accent2);
 				}
 			}
 
 			&.style3 {
 				> .image:before {
-					background-color: _palette(accent3);
+					background-color: functions.palette(accent3);
 				}
 			}
 
 			&.style4 {
 				> .image:before {
-					background-color: _palette(accent4);
+					background-color: functions.palette(accent4);
 				}
 			}
 
 			&.style5 {
 				> .image:before {
-					background-color: _palette(accent5);
+					background-color: functions.palette(accent5);
 				}
 			}
 
 			&.style6 {
 				> .image:before {
-					background-color: _palette(accent6);
+					background-color: functions.palette(accent6);
 				}
 			}
 
 			body:not(.is-touch) & {
 				&:hover {
 					> .image {
-						@include vendor('transform', 'scale(1.1)');
+						@include vendor.vendor('transform', 'scale(1.1)');
 
 						&:before {
-							background-color: _palette(bg-accent);
+							background-color: functions.palette(bg-accent);
 							opacity: 0.35;
 						}
 
@@ -186,12 +191,12 @@
 		}
 
 		* + & {
-			margin-top: _size(element-margin);
+			margin-top: functions.size(element-margin);
 		}
 
 		body.is-preload & {
 			article {
-				@include vendor('transform', 'scale(0.9)');
+				@include vendor.vendor('transform', 'scale(0.9)');
 				opacity: 0;
 			}
 		}
@@ -205,8 +210,8 @@
 			}
 		}
 
-		@include breakpoint('<=large') {
-			$gutter: _size(gutter) * 0.5;
+		@include breakpoints.breakpoint('<=large') {
+			$gutter: functions.size(gutter) * 0.5;
 
 			margin: ($gutter * -1) 0 0 ($gutter * -1);
 
@@ -216,8 +221,8 @@
 			}
 		}
 
-		@include breakpoint('<=medium') {
-			$gutter: _size(gutter);
+		@include breakpoints.breakpoint('<=medium') {
+			$gutter: functions.size(gutter);
 
 			margin: ($gutter * -1) 0 0 ($gutter * -1);
 
@@ -227,8 +232,8 @@
 			}
 		}
 
-		@include breakpoint('<=small') {
-			$gutter: _size(gutter) * 0.5;
+		@include breakpoints.breakpoint('<=small') {
+			$gutter: functions.size(gutter) * 0.5;
 
 			margin: ($gutter * -1) 0 0 ($gutter * -1);
 
@@ -238,14 +243,14 @@
 
 				&:hover {
 					> .image {
-						@include vendor('transform', 'scale(1.0)');
+						@include vendor.vendor('transform', 'scale(1.0)');
 					}
 				}
 			}
 		}
 
-		@include breakpoint('<=xsmall') {
-			$gutter: _size(gutter) * 0.5;
+		@include breakpoints.breakpoint('<=xsmall') {
+			$gutter: functions.size(gutter) * 0.5;
 
 			margin: 0;
 

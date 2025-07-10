@@ -1,11 +1,11 @@
 ---
 ---
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/vendor';
-@import 'libs/breakpoints';
-@import 'libs/html-grid';
+@use 'libs/vars';
+@use 'libs/functions';
+@use 'libs/mixins';
+@use 'libs/vendor';
+@use 'libs/breakpoints';
+@use 'libs/html-grid';
 
 /*
 	Phantom by Pixelarity
@@ -18,7 +18,7 @@
 	.tiles {
 		body.is-preload & {
 			article {
-				@include vendor('transform', 'none');
+				@include vendor.vendor('transform', 'none');
 				opacity: 1;
 			}
 		}
