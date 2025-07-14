@@ -8,6 +8,7 @@ category:
 tags:
 - newsletter
 - resume
+featured: true
 ---
 On Friday, I led two back-to-back workshops about building resumes that lead to getting interviews, nearly 100% of the time. One of the things I was most worried about teaching people was how to write their experience in a way that shows value.
 

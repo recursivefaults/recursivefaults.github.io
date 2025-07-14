@@ -2,6 +2,7 @@
 title: "Six-Figure Resume: Build a Resume With This Successful Format"
 tags: resume, portfolio, job, six-figure-resume
 category: career
+featured: true
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
 ---
 Now that we’ve covered the value of resumes and common mistakes that will prevent any resume from succeeding, its time to talk about the core elements your resume needs.

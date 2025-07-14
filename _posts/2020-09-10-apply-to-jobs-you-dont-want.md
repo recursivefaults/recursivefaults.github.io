@@ -1,6 +1,7 @@
 ---
 title: Apply to Jobs You Don’t Want
 cover_image: https://source.unsplash.com/PM7KE-JQANE/900x500
+featured: true
 category:
 - career
 tags:

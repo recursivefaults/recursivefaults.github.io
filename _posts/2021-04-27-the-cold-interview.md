@@ -5,6 +5,7 @@ tags:
 - job
 - fail
 category: career
+featured: true
 cover_image: https://source.unsplash.com/dkv2CXSoVfs/900x500
 excerpt: What you can do when you are sitting across from an interviewer who doesn’t want to be there? In this article I share a tip on how to combat this tricky situation.
 ---

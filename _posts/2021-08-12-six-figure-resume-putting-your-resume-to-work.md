@@ -2,6 +2,7 @@
 title: "Six-Figure Resume: How To Put Your Resume To Work And Get Interviewed and Promoted"
 tags: resume, portfolio, job, six-figure-resume
 category: career
+featured: true
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
 ---
 In this last article in my Six-Figure Resume, I want to put all the pieces together into a process that allows you to refine your resume and improve your interviewing rates.

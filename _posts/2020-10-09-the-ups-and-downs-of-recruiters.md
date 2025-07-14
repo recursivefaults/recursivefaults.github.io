@@ -2,6 +2,7 @@
 title: The Ups and Downs of Recruiters
 cover_image: https://source.unsplash.com/MYbhN8KaaEc/900x500
 category: career
+featured: true
 tags:
 - recruiter
 - resume

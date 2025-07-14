@@ -44,8 +44,24 @@ cta_url: https://sendfox.com/lp/m7z24v
     </div>
 </section>
 <hr>
-<section id="three" class="wrapper spotlight style3">
+<section id="three" class="wrapper alt spotlight style3">
     <span class="image left">
+        <img src="/images/articles.jpg" alt="">
+    </span>
+    <div class="content">
+        <h2 class="major">Useful articles</h2>
+        <p><strong>Get started with some free curated articles to help you get the job you want.</strong></p>
+        <ul>
+            {% assign featured_posts = site.categories.career | where: "featured", "true" %}
+            {% for post in featured_posts %}
+            <li><a href="{{post.url}}">{{post.title}}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>
+<hr>
+<section id="four" class="wrapper spotlight style4">
+    <span class="image right">
         <a href="/careers/articles" class="image"><img src="/images/articles.jpg" alt=""></a>
     </span>
     <div class="content">

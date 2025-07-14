@@ -2,6 +2,7 @@
 title: "Six-Figure Resume: Avoid These Resume Mistakes That Are Keeping You From Getting Interviewed"
 tags: resume, portfolio, job, six-figure-resume
 category: career
+featured: true
 cover_image: https://source.unsplash.com/AoI2E_7El1w/1000x400
 ---
 
