@@ -1,9 +1,12 @@
+@use "../libs/breakpoints";
+@use "../libs/functions";
+
 #sales {
     color: #212121;
-    $gutter: _size(gutter) * 2;
+    $gutter: functions.size(gutter) * 2;
     padding: 0 $gutter;
-    @include breakpoint('<=small') {
-        $gutter: _size(gutter) * 0.5;
+    @include breakpoints.breakpoint('<=small') {
+        $gutter: functions.size(gutter) * 0.5;
 
         padding: 0 $gutter;
     }

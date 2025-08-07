@@ -1,3 +1,6 @@
+@use "../libs/breakpoints";
+@use "../libs/mixins";
+
 ///
 /// Phantom by Pixelarity
 /// pixelarity.com | hello@pixelarity.com
@@ -7,9 +10,9 @@
 /* Main */
 
 	#main {
-		@include padding(5em, 0, (-5em, 0, 3em, 0));
+		@include mixins.padding(5em, 0, (-5em, 0, 3em, 0));
 
-		@include breakpoint('<=small') {
-			@include padding(3em, 0, (-3em, 0, 3em, 0));
+		@include breakpoints.breakpoint('<=small') {
+			@include mixins.padding(3em, 0, (-3em, 0, 3em, 0));
 		}
 	}

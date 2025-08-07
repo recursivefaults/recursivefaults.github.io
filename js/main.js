@@ -182,9 +182,10 @@
 
 			});
     // Image loading
-    var oldImage = document.querySelector('img[data-unsplash-id]');
+    const oldImages = document.querySelectorAll('img[data-unsplash-id]');
     var imageJson = null;
-    if(oldImage != null) {
+    oldImages.forEach((imageNode) => {
+        var oldImage = imageNode;
         var imageId = splitImageUrl(oldImage.getAttribute('data-unsplash-id'));
         fetch("https://api.unsplash.com/photos/"+imageId+"?client_id=npTDbSF7scIiJiCKVoxBfkfdAaZQnCQVOSg3KHrKZsg")
             .then((response) => {
@@ -199,10 +200,11 @@
                 oldImage.parentNode.insertBefore(newImage, oldImage);
                 oldImage.parentNode.removeChild(oldImage);
             });
-    }
+    })
+
 
     function splitImageUrl(url) {
-        var imageId = oldImage.getAttribute('data-unsplash-id');
+        var imageId = url
         if (imageId.length == 0) {
             return null
         }

@@ -1,3 +1,6 @@
+@use "../libs/breakpoints";
+@use "../libs/functions";
+
 ///
 /// Phantom by Pixelarity
 /// pixelarity.com | hello@pixelarity.com
@@ -9,15 +12,15 @@
 	#wrapper {
 		> * {
 			> .inner {
-				$gutter: _size(gutter);
+				$gutter: functions.size(gutter);
 
 				width: 100%;
-				max-width: _size(inner);
+				max-width: functions.size(inner);
 				margin: 0 auto;
 				padding: 0 $gutter;
 
-				@include breakpoint('<=small') {
-					$gutter: _size(gutter) * 0.5;
+				@include breakpoints.breakpoint('<=small') {
+					$gutter: functions.size(gutter) * 0.5;
 
 					padding: 0 $gutter;
 				}

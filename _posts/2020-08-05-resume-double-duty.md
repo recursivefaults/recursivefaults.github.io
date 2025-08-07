@@ -2,6 +2,7 @@
 title: Resume Double Duty - Getting a Raise
 cover_image: https://source.unsplash.com/ulnr04Hgldw/900x500
 category: career
+featured: true
 tags:
 - newsletter
 - resume

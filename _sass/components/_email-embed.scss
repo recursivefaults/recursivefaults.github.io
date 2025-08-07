@@ -1,5 +1,6 @@
+@use "../libs/functions";
 
 
 #email-embed {
-    background-color: _palette(bg-alt);
+    background-color: functions.palette(bg-alt);
 }

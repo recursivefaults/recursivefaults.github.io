@@ -1,3 +1,6 @@
+@use "../libs/breakpoints";
+@use "../libs/functions";
+
 ///
 /// Phantom by Pixelarity
 /// pixelarity.com | hello@pixelarity.com
@@ -14,10 +17,10 @@
 
 	header {
 		p {
-			margin-top: _size(element-margin) * -0.5;
+			margin-top: functions.size(element-margin) * -0.5;
 		}
 
-		@include breakpoint('<=small') {
+		@include breakpoints.breakpoint('<=small') {
 			p {
 				margin-top: 0;
 			}

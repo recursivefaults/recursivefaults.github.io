@@ -2,6 +2,7 @@
 title: 4 Reasons You Didn’t Get The Job
 tags: rejection, offer
 category: career
+featured: true
 cover_image: https://source.unsplash.com/1k3vsv7iIIc/1400x900
 excerpt: The interview went great, but you didn’t get the job. As maddening as that is, there are four reasons why this can keep happening to you, and what you can do about it.
 ---

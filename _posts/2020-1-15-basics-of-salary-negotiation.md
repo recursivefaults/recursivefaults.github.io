@@ -2,6 +2,7 @@
 title: The Basics of Salary Negotiation
 cover_image: https://source.unsplash.com/9BatP4ovW2I/1600x1067
 category: career
+featured: true
 tags:
 - negotiation
 - salary
