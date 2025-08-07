@@ -1,11 +1,11 @@
 ---
-title: How To Make Great Teams Quit
-description: Everyone wants great teams, but did you know that they'll quit if you aren't careful? In this article you'll learn what drives great teams to new jobs and how you can stop it.
-cover_image: https://source.unsplash.com/GpplHQ-fyvA/1400x900
+title: "How To Make Great Teams Quit"
+description: Everyone wants great teams, but did you know that they'll quit if you aren't careful? In this article you'll learn what drives great teams to new jobs and how you can stop it.
+cover_image: https://source.unsplash.com/GpplHQ-fyvA/1400x900
 tags:
-  - leadership
-  - development
-  - team
+- leadership
+- development
+- team
 ---
 
 Let's face it, we all know our teams could be better. Maybe they could take more initiative, handle more abstract problems, improve their capacity, address quality issues, or work better with peer groups. Every team has some areas it can improve.
